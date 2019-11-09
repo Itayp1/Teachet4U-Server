@@ -1,34 +1,34 @@
 const mongoose = require("mongoose");
 
-const StudentSchema = new mongoose.Schema({
-  age: {
+const TimeTableSchema = new mongoose.Schema({
+  id: {
     type: String,
     required: true
   },
-  email: {
+  lessions: {
     type: String,
     required: true
   },
-  gender: {
+  id2: {
     type: String,
     required: true
   },
-  lastname: {
+  cources: {
     type: String,
     required: true
   },
-  name: {
-    type: String,
+  time: {
+    type: Date,
     required: true
   },
-  city: {
-    type: String,
+  accepted: {
+    type: Date,
     required: true
   },
-  phone: {
-    type: String,
+  canceled: {
+    type: Date,
     required: true
   }
 });
 
-mongoose.model("Student", StudentSchema);
+mongoose.model("Chat", TimeTableSchema);

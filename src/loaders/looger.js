@@ -21,8 +21,8 @@ const options = {
   },
   console: {
     level: "debug",
-    json: false,
-    colorize: true
+    colorize: true,
+    format: format.combine(format.cli(), format.splat())
   }
 };
 // instantiate a new Winston Logger with the settings defined above

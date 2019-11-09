@@ -1,6 +1,34 @@
 const mongoose = require("mongoose");
 
-const Teacherschema = new mongoose.Schema({
+const TeacherSchema = new mongoose.Schema({
+  age: {
+    type: String,
+    required: true
+  },
+  email: {
+    type: String,
+    required: true
+  },
+  gender: {
+    type: String,
+    required: true
+  },
+  lastname: {
+    type: String,
+    required: true
+  },
+  name: {
+    type: String,
+    required: true
+  },
+  city: {
+    type: String,
+    required: true
+  },
+  phone: {
+    type: String,
+    required: true
+  },
   pic: {
     type: String,
     required: true
@@ -29,14 +57,10 @@ const Teacherschema = new mongoose.Schema({
     type: String,
     required: true
   },
-  availablesdays: {
+  availablesDays: {
     type: String
   },
-  courses: {
-    type: String,
-    required: true
-  },
-  avaiablesgours: {
+  avaiablesHours: {
     type: String,
     required: true
   },
@@ -46,4 +70,4 @@ const Teacherschema = new mongoose.Schema({
   }
 });
 
-mongoose.model("Teacher", Teacherschema);
+mongoose.model("Teacher", TeacherSchema);
