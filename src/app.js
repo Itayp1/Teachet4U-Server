@@ -1,6 +1,6 @@
 const express = require("express"),
   app = express(),
-  loaders = require("./loaders/express"),
+  loaders = require("./loaders"),
   conf = require("../server.config");
 
 const startServer = async () => {

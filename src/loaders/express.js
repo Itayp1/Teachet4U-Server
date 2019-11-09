@@ -6,9 +6,7 @@ const bodyParser = require("body-parser"),
   helmet = require("helmet"),
   compression = require("compression"),
   isProduction = process.env.env === "production";
-
-/// catch Uncaught error logging them
-require("./ErrorHandling")();
+const Logger = require("./looger");
 
 module.exports = app => {
   if (!isProduction) {

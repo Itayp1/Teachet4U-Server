@@ -1,12 +1,11 @@
-//require("express-async-errors");
-
-module.exports = function() {
+const Logger = require("./looger");
+module.exports = () => {
   process
     .on("unhandledRejection", (reason, p) => {
-      console.log(reason);
+      Logger.error(`message:${reason.message} stack:${reason.stack}`);
     })
     .on("uncaughtException", err => {
-      console.log(err);
+      Logger.error(`message:${err.message} stack:${err.stack}`);
       //  / process.exit(1);
     });
   process.on("SIGINT", () => {
