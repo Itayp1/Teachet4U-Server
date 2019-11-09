@@ -1,0 +1,355 @@
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T02:29:46.626Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T02:29:46.639Z' }
+{ message:
+   '[object Promise]   SyntaxError: Unexpected token d in JSON at position 0',
+  level: 'error',
+  timestamp: '2019-11-09T02:29:46.654Z' }
+{ message:
+   'message:Unexpected token d in JSON at position 0 stack:SyntaxError: Unexpected token d in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:14:8)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T02:29:46.656Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T02:29:46.657Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T02:30:53.241Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T02:30:53.249Z' }
+{ message:
+   'message:Unexpected token d in JSON at position 0 stack:SyntaxError: Unexpected token d in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:14:8)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T02:30:53.271Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T02:31:11.539Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T02:31:11.548Z' }
+{ message:
+   'message:Unexpected token d in JSON at position 0 stack:SyntaxError: Unexpected token d in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:14:8)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T02:31:11.580Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T02:31:28.037Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T02:31:28.046Z' }
+{ message:
+   'message:Unexpected token d in JSON at position 0 stack:SyntaxError: Unexpected token d in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:14:8)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T02:31:28.082Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T02:31:44.946Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T02:31:44.963Z' }
+{ message:
+   'message:Unexpected token d in JSON at position 0 stack:SyntaxError: Unexpected token d in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:14:8)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T02:31:44.977Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T02:32:35.312Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T02:32:35.323Z' }
+{ message:
+   'message:Unexpected token d in JSON at position 0 stack:SyntaxError: Unexpected token d in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:14:8)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T02:32:35.340Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T02:33:30.750Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T02:33:30.759Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:31:47.163Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:31:47.171Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:33:29.361Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:33:29.369Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:33:45.563Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:33:45.572Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:34:26.791Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:34:26.800Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:35:02.815Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:35:02.826Z' }
+{ message:
+   'message:ddddddd stack:Error: ddddddd\n    at Object.<anonymous> (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\test.js:15:7)\n    at Module._compile (internal/modules/cjs/loader.js:701:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)\n    at Module.load (internal/modules/cjs/loader.js:600:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:531:3)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)\n    at startup (internal/bootstrap/node.js:283:19)\n    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)',
+  level: 'error',
+  timestamp: '2019-11-09T04:35:17.946Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:36:24.013Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:36:26.756Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:36:26.763Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:36:43.221Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:36:45.505Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:36:45.516Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:37:06.189Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:37:08.638Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:37:08.646Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:37:22.452Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:37:24.750Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:37:24.761Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:38:28.857Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:39:04.439Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:39:04.856Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:39:04.868Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:39:25.832Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:39:26.229Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:39:26.239Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:39:38.482Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:39:38.492Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:39:43.964Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:39:45.211Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:39:45.218Z' }
+{ message: 'message:errro1111111111r stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:40:02.138Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:40:02.228Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:40:02.237Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:40:19.280Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:40:19.298Z' }
+{ message: 'message:errro1111111111r stack:null',
+  level: 'error',
+  timestamp: '2019-11-09T04:40:35.924Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:40:36.604Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:40:36.612Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:41:20.771Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:41:20.780Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:41:20.785Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:51:17.273Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:51:17.282Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:51:17.287Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:51:42.258Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:51:42.266Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:51:42.269Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:51:59.755Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:51:59.763Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:51:59.769Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:52:25.890Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:52:25.899Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:52:25.904Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:52:33.846Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:52:33.853Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:52:33.856Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:52:45.485Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:52:45.495Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:52:45.499Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:52:55.328Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:52:55.343Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:52:55.347Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:54:37.334Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:54:37.344Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:54:37.347Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:54:58.447Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:54:58.455Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:54:58.461Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T04:56:53.028Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T04:56:53.068Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:56:53.075Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T05:11:05.087Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T05:11:05.094Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T05:11:05.100Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T05:13:33.355Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T05:13:33.367Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T05:13:33.371Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T05:14:38.893Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T05:14:38.904Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T05:14:47.772Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T05:14:47.786Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T05:14:47.790Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-09T05:15:51.780Z' }
+{ message: '✌️ Express loaded',
+  level: 'info',
+  timestamp: '2019-11-09T05:15:51.792Z' }

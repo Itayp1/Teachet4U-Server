@@ -1,0 +1,101 @@
+{"message":"[object Promise]   SyntaxError: Unexpected token d in JSON at position 0","level":"error"}
+{"message":"message:Unexpected token d in JSON at position 0 stack:SyntaxError: Unexpected token d in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:14:8)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error"}
+{"message":"message:undefined stack:undefined","level":"error"}
+{"message":"message:Unexpected token d in JSON at position 0 stack:SyntaxError: Unexpected token d in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:14:8)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error"}
+{"message":"message:Unexpected token d in JSON at position 0 stack:SyntaxError: Unexpected token d in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:14:8)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error"}
+{"message":"message:Unexpected token d in JSON at position 0 stack:SyntaxError: Unexpected token d in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:14:8)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error"}
+{"message":"message:Unexpected token d in JSON at position 0 stack:SyntaxError: Unexpected token d in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:14:8)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error"}
+{ message:
+   'message:Unexpected token d in JSON at position 0 stack:SyntaxError: Unexpected token d in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:14:8)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T02:32:35.339Z' }
+{ message:
+   'message:ddddddd stack:Error: ddddddd\n    at Object.<anonymous> (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\test.js:15:7)\n    at Module._compile (internal/modules/cjs/loader.js:701:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)\n    at Module.load (internal/modules/cjs/loader.js:600:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:531:3)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)\n    at startup (internal/bootstrap/node.js:283:19)\n    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)',
+  level: 'error',
+  timestamp: '2019-11-09T04:35:17.943Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:36:24.009Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:36:43.217Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:37:06.181Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:37:22.448Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:38:28.853Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:39:04.435Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:39:25.828Z' }
+{ message: 'message:undefined stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:39:43.959Z' }
+{ message: 'message:errro1111111111r stack:undefined',
+  level: 'error',
+  timestamp: '2019-11-09T04:40:02.135Z' }
+{ message: 'message:errro1111111111r stack:null',
+  level: 'error',
+  timestamp: '2019-11-09T04:40:35.920Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:41:20.785Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:51:17.286Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:51:42.269Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:51:59.769Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:52:25.904Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:52:33.856Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:52:45.498Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:52:55.346Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:54:37.347Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:54:58.461Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T04:56:53.075Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T05:11:05.099Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T05:13:33.371Z' }
+{ message:
+   'message:require(...) is not a function stack:TypeError: require(...) is not a function\n    at module.exports (c:\\Programing\\git\\Teacher4U-Server\\src\\loaders\\index.js:13:23)\n    at process._tickCallback (internal/process/next_tick.js:68:7)',
+  level: 'error',
+  timestamp: '2019-11-09T05:14:47.790Z' }
