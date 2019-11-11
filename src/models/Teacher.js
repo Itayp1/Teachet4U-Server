@@ -11,7 +11,8 @@ const TeacherSchema = new mongoose.Schema({
   },
   gender: {
     type: String,
-    required: true
+    required: true,
+    enum: ["Male", "Female"]
   },
   lastname: {
     type: String,
@@ -34,12 +35,14 @@ const TeacherSchema = new mongoose.Schema({
     required: true
   },
   courses: {
-    type: String,
-    required: true
+    type: [],
+    required: true,
+    default: undefined
   },
   studyCities: {
-    type: String,
-    required: true
+    type: [],
+    required: true,
+    default: undefined
   },
   university: {
     type: String,
@@ -58,11 +61,14 @@ const TeacherSchema = new mongoose.Schema({
     required: true
   },
   availablesDays: {
-    type: String
+    type: [String],
+    required: true,
+    default: undefined
   },
   avaiablesHours: {
-    type: String,
-    required: true
+    type: [Number],
+    required: true,
+    default: undefined
   },
   rating: {
     type: String,

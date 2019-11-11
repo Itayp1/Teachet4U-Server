@@ -31,4 +31,4 @@ const TimeTableSchema = new mongoose.Schema({
   }
 });
 
-mongoose.model("Chat", TimeTableSchema);
+mongoose.model("TimeTable", TimeTableSchema);

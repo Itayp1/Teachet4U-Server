@@ -1,8 +1,10 @@
-const router = require("express").Router();
-const MOCK = require("./routes/mock");
-const REGISTRATION = require("./routes/registration");
-router.use("/", MOCK);
+const router = require("express").Router(),
+  MOCK = require("./routes/mock"),
+  REGISTRATION = require("./routes/registration"),
+  SearchTeacher = require("./routes/SearchTeacher");
 
-router.use("/Registration", REGISTRATION);
+router.use("/", MOCK);
+router.use("/registration", REGISTRATION);
+router.use("/searchTeacher", SearchTeacher);
 
 module.exports = router;

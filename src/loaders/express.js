@@ -1,12 +1,11 @@
 const bodyParser = require("body-parser"),
   cors = require("cors"),
   config = require("../../server.config"),
-  routes = require("../api/index"),
+  routes = require("../api"),
   morgan = require("morgan"),
   helmet = require("helmet"),
   compression = require("compression"),
   isProduction = process.env.env === "production";
-const Logger = require("./looger");
 
 module.exports = app => {
   if (!isProduction) {
@@ -14,7 +13,6 @@ module.exports = app => {
   }
 
   // Health Check endpoints
-
   app.get("/health", (req, res) => {
     res
       .status(200)
@@ -32,7 +30,7 @@ module.exports = app => {
   app.use(helmet());
   //register gzip compression
   app.use(compression());
-  // Load API routes
+  // Load API ye32
   app.use(config.BASE_API, routes);
 
   /// catch 404 and forward to error handler
@@ -43,6 +41,7 @@ module.exports = app => {
   });
   // catch exeptions from the express handler
   app.use((err, req, res, next) => {
+    console.log(err);
     res.status(err.status || 500);
     res.json({
       errors: {

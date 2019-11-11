@@ -1,8 +1,8 @@
 const express = require("express"),
   app = express(),
   loaders = require("./loaders"),
+  Logger = require("./loaders/looger"),
   conf = require("../server.config");
-
 const startServer = async () => {
   await loaders(app);
   app.listen(3000, err => {
@@ -11,7 +11,7 @@ const startServer = async () => {
       process.exit(1);
       return;
     }
-    console.log(`
+    Logger.info(`
         ################################################
              Server listening on port: ${conf.PORT} 
         ################################################
