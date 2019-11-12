@@ -4,10 +4,9 @@ const router = require("express").Router(),
 require("express-async-errors");
 
 router.get("/", async (req, res, next) => {
-  const { location, course } = req.query;
-  const searchTeacher = new SearchTeacher(location, course);
+  const { city, course } = req.query;
+  const searchTeacher = new SearchTeacher(city, course);
   const result = await searchTeacher.getListOfTeachers();
-  console.log(result);
   res.json(result);
 });
 

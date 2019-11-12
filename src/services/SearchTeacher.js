@@ -3,16 +3,17 @@ const mongoose = require("mongoose"),
   CError = require("../services/CustomError");
 
 module.exports = class SearchTeacher {
-  constructor(location, course) {
-    this.location = location;
+  constructor(city, course) {
+    this.city = city;
     this.course = course;
   }
-
   async getListOfTeachers() {
-    console.log(this.location + this.course);
-    const res = await Teacher.find({ location }, { courses: this.course });
+    const { city, course } = this;
+    const res = await Teacher.find({
+      courses: { $in: [course] },
+      studyCities: { $in: [city] }
+    });
     if (!res) throw new CError("Teachers Not Found", 404);
-    console.log(res);
     return res;
   }
 };
