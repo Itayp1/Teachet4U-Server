@@ -1,13 +1,13 @@
 const User = require("./User"),
   mongoose = require("mongoose"),
-  StudentQuery = mongoose.model("Teacher"),
+  TeacherQuery = mongoose.model("Teacher"),
   CError = require("../services/CustomError");
 
 class Teacher extends User {
   constructor(
+    email,
     name,
     lastname,
-    email,
     age,
     gender,
     city,
@@ -24,7 +24,7 @@ class Teacher extends User {
     avaiablesHours,
     rating
   ) {
-    super(name, lastname, email, age, gender, city, phone, profile);
+    super(email, name, lastname, age, gender, city, phone, profile);
     (this.pic = pic),
       (this.courses = courses),
       (this.studyCities = studyCities),
@@ -39,8 +39,19 @@ class Teacher extends User {
 
   async isExist() {
     const { email } = this;
-    const isExist = await StudentQuery.findOne({ email });
+    const isExist = await TeacherQuery.findOne({ email });
     if (isExist) throw new CError("User already registered.", 400);
+  }
+  async getAvaiableTime() {
+    const { email } = this;
+
+    const result = await TeacherQuery.findOne({
+      email
+    });
+    if (!result) throw new CError("cannot find avaiable time", 500);
+
+    const { avaiablesHours, availablesDays } = result;
+    return { avaiablesHours, availablesDays };
   }
 }
 module.exports = Teacher;

@@ -1,32 +1,28 @@
 const mongoose = require("mongoose");
 
 const TimeTableSchema = new mongoose.Schema({
-  id: {
+  teacherEmail: {
     type: String,
     required: true
   },
-  lessions: {
+  studentEmail: {
     type: String,
     required: true
   },
-  id2: {
+  cource: {
     type: String,
     required: true
   },
-  cources: {
-    type: String,
+  date: {
+    type: Date,
     required: true
   },
   time: {
     type: Date,
     required: true
   },
-  accepted: {
-    type: Date,
-    required: true
-  },
-  canceled: {
-    type: Date,
+  status: {
+    type: String,
     required: true
   }
 });

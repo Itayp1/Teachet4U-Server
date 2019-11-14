@@ -1,5 +1,5 @@
 module.exports = class User {
-  constructor(name, lastname, email, age, gender, city, phone, profile) {
+  constructor(email, name, lastname, age, gender, city, phone, profile) {
     (this.name = name),
       (this.lastname = lastname),
       (this.email = email),

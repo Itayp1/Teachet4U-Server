@@ -3724,3 +3724,243 @@
    '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
   level: 'info',
   timestamp: '2019-11-12T11:09:39.001Z' }
+{
+  message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-13T23:29:01.673Z'
+}
+{
+  message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-13T23:29:01.689Z'
+}
+{
+  message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-13T23:29:01.699Z'
+}
+{
+  message: '\n' +
+    '        ################################################\n' +
+    '             Server listening on port: 3000 \n' +
+    '        ################################################\n' +
+    '      ',
+  level: 'info',
+  timestamp: '2019-11-13T23:29:01.732Z'
+}
+{
+  message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-14T00:11:41.856Z'
+}
+{
+  message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:11:41.869Z'
+}
+{
+  message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:11:41.925Z'
+}
+{
+  message: '\n' +
+    '        ################################################\n' +
+    '             Server listening on port: 3000 \n' +
+    '        ################################################\n' +
+    '      ',
+  level: 'info',
+  timestamp: '2019-11-14T00:11:41.940Z'
+}
+{
+  message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-14T00:13:14.703Z'
+}
+{
+  message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:13:14.718Z'
+}
+{
+  message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:13:14.735Z'
+}
+{
+  message: '\n' +
+    '        ################################################\n' +
+    '             Server listening on port: 3000 \n' +
+    '        ################################################\n' +
+    '      ',
+  level: 'info',
+  timestamp: '2019-11-14T00:13:14.861Z'
+}
+{
+  message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-14T00:13:50.198Z'
+}
+{
+  message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:13:50.211Z'
+}
+{
+  message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:13:50.293Z'
+}
+{
+  message: '\n' +
+    '        ################################################\n' +
+    '             Server listening on port: 3000 \n' +
+    '        ################################################\n' +
+    '      ',
+  level: 'info',
+  timestamp: '2019-11-14T00:13:50.357Z'
+}
+{
+  message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-14T00:14:42.550Z'
+}
+{
+  message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:14:42.563Z'
+}
+{
+  message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:14:42.576Z'
+}
+{
+  message: '\n' +
+    '        ################################################\n' +
+    '             Server listening on port: 3000 \n' +
+    '        ################################################\n' +
+    '      ',
+  level: 'info',
+  timestamp: '2019-11-14T00:14:42.637Z'
+}
+{
+  message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-14T00:18:11.887Z'
+}
+{
+  message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:18:11.909Z'
+}
+{
+  message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:18:11.947Z'
+}
+{
+  message: '\n' +
+    '        ################################################\n' +
+    '             Server listening on port: 3000 \n' +
+    '        ################################################\n' +
+    '      ',
+  level: 'info',
+  timestamp: '2019-11-14T00:18:12.001Z'
+}
+{
+  message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-14T00:27:35.016Z'
+}
+{
+  message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:27:35.030Z'
+}
+{
+  message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:27:35.047Z'
+}
+{
+  message: '\n' +
+    '        ################################################\n' +
+    '             Server listening on port: 3000 \n' +
+    '        ################################################\n' +
+    '      ',
+  level: 'info',
+  timestamp: '2019-11-14T00:27:35.103Z'
+}
+{
+  message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-14T00:28:17.755Z'
+}
+{
+  message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:28:17.768Z'
+}
+{
+  message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:28:17.823Z'
+}
+{
+  message: '\n' +
+    '        ################################################\n' +
+    '             Server listening on port: 3000 \n' +
+    '        ################################################\n' +
+    '      ',
+  level: 'info',
+  timestamp: '2019-11-14T00:28:17.878Z'
+}
+{
+  message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-14T00:29:39.991Z'
+}
+{
+  message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:29:40.003Z'
+}
+{
+  message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:29:40.044Z'
+}
+{
+  message: '\n' +
+    '        ################################################\n' +
+    '             Server listening on port: 3000 \n' +
+    '        ################################################\n' +
+    '      ',
+  level: 'info',
+  timestamp: '2019-11-14T00:29:40.098Z'
+}
+{
+  message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-14T00:30:56.226Z'
+}
+{
+  message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:30:56.239Z'
+}
+{
+  message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T00:30:56.287Z'
+}
+{
+  message: '\n' +
+    '        ################################################\n' +
+    '             Server listening on port: 3000 \n' +
+    '        ################################################\n' +
+    '      ',
+  level: 'info',
+  timestamp: '2019-11-14T00:30:56.334Z'
+}
