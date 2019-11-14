@@ -1,6 +1,7 @@
 const User = require("./User"),
   mongoose = require("mongoose"),
   TeacherQuery = mongoose.model("Teacher"),
+  TimeTable = mongoose.model("TimeTable"),
   CError = require("../services/CustomError");
 
 class Teacher extends User {
@@ -42,16 +43,16 @@ class Teacher extends User {
     const isExist = await TeacherQuery.findOne({ email });
     if (isExist) throw new CError("User already registered.", 400);
   }
-  async getAvaiableTime() {
-    const { email } = this;
-
-    const result = await TeacherQuery.findOne({
-      email
+  async getAvaiableTime(date) {
+    const takenLessons = await TimeTable.find({
+      teacherEmail: this.email,
+      date
     });
-    if (!result) throw new CError("cannot find avaiable time", 500);
+    const avaiablesHours = takenLessons.map(obj => {
+      return obj.time;
+    });
 
-    const { avaiablesHours, availablesDays } = result;
-    return { avaiablesHours, availablesDays };
+    return { avaiablesHours };
   }
 }
 module.exports = Teacher;

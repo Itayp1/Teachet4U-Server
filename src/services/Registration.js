@@ -12,6 +12,7 @@ module.exports = class Registration {
     const res = await teacher.save();
     return res;
   }
+
   async registerAsStudent() {
     const student = new Student(this.userDetails);
     const res = await student.save();

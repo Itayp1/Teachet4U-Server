@@ -14,6 +14,5 @@ module.exports = async app => {
   Logger.info("✌️ Express loaded!");
 
   // catch Uncaught error logging them
-
   require("./logging")();
 };
