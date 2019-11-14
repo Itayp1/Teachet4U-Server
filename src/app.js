@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const express = require("express"),
   app = express(),
   loaders = require("./loaders"),

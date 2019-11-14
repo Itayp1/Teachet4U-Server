@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const bodyParser = require("body-parser"),
   cors = require("cors"),
   config = require("../../server.config"),
@@ -5,7 +6,7 @@ const bodyParser = require("body-parser"),
   morgan = require("morgan"),
   helmet = require("helmet"),
   compression = require("compression"),
-  isProduction = process.env.env === "production";
+  isProduction = process.env.ENV === "production";
 
 module.exports = app => {
   if (!isProduction) {
@@ -40,7 +41,7 @@ module.exports = app => {
     next(err);
   });
   // catch exeptions from the express handler
-  app.use((err, req, res, next) => {
+  app.use((err, req, res) => {
     console.log(err);
     res.status(err.status || 500);
     res.json({

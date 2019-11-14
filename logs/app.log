@@ -4445,3 +4445,27 @@
    '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
   level: 'info',
   timestamp: '2019-11-14T16:40:10.146Z' }
+{
+  message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-14T19:37:16.504Z'
+}
+{
+  message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T19:37:16.522Z'
+}
+{
+  message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-14T19:37:16.540Z'
+}
+{
+  message: '\n' +
+    '        ################################################\n' +
+    '             Server listening on port: 3000 \n' +
+    '        ################################################\n' +
+    '      ',
+  level: 'info',
+  timestamp: '2019-11-14T19:37:16.810Z'
+}

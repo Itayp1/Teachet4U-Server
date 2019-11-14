@@ -1,6 +1,6 @@
 const appRoot = require("app-root-path"),
   { createLogger, format, transports } = require("winston"),
-  { combine, timestamp, label, prettyPrint } = format;
+  { combine, timestamp, prettyPrint } = format;
 
 const options = {
   info: {
