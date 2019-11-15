@@ -5,9 +5,9 @@ const Student = require("../services/Student"),
 module.exports = async (req, res, next) => {
   const { email } = req.body;
   let isExist = null;
-  const teacher = new Teacher(null, null, email);
+  const teacher = new Teacher(email, null, null);
   isExist = await teacher.isExist();
-  const student = new Student(null, null, email);
+  const student = new Student(email, null, null);
   isExist = await student.isExist();
   next();
 };

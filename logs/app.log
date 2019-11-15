@@ -5525,3 +5525,1134 @@
   level: 'info',
   timestamp: '2019-11-15T06:20:58.865Z'
 }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T11:01:15.564Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T11:01:15.569Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T11:01:15.575Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T11:01:15.589Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:32:31.824Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:32:31.829Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:32:31.834Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:32:31.852Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:33:26.480Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:33:26.487Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:33:26.492Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:33:26.517Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:47:06.346Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:47:06.352Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:47:06.358Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:47:06.376Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:48:12.394Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:48:12.399Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:48:12.404Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:48:12.415Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:51:41.046Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:51:41.058Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:51:41.063Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:51:41.072Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:52:25.987Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:52:25.991Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:52:25.997Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:52:26.010Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:52:37.564Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:52:37.570Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:52:37.575Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:52:37.588Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:52:52.890Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:52:52.895Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:52:52.902Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:52:52.916Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:53:19.213Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:53:19.218Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:53:19.224Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:53:19.239Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:53:49.686Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:53:49.690Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:53:49.696Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:53:49.711Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:54:20.520Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:54:20.526Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:54:20.530Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:54:20.537Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:54:57.924Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:54:57.929Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:54:57.934Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:54:57.950Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:55:22.124Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:55:22.130Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:55:22.134Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:55:22.141Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:55:50.770Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:55:50.775Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:55:50.781Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:55:50.796Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:57:31.289Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:57:31.293Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:57:31.297Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:57:31.304Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T19:58:26.656Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:58:26.661Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T19:58:26.665Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T19:58:26.682Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T20:00:23.253Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:00:23.258Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:00:23.262Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T20:00:23.269Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T20:00:36.059Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:00:36.067Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:00:36.098Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T20:00:36.188Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T20:00:44.519Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:00:44.523Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:00:44.530Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T20:00:44.549Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T20:02:27.445Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:02:27.450Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:02:27.455Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T20:02:27.472Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T20:02:34.439Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:02:34.444Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:02:34.450Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T20:02:34.466Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T20:02:38.488Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:02:38.493Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:02:38.497Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T20:02:38.504Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T20:06:04.127Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:06:04.133Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:06:04.138Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T20:06:04.154Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T20:07:14.631Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:07:14.636Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:07:14.642Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T20:07:14.663Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T20:09:07.011Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:09:07.016Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:09:07.025Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T20:09:07.042Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T20:09:38.675Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:09:38.681Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:09:38.687Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T20:09:38.707Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T20:09:56.551Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:09:56.556Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:09:56.561Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T20:09:56.580Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T20:10:10.432Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:10:10.436Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T20:10:10.441Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T20:10:10.456Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:38.199Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:38.205Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:38.211Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:38.222Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:41.826Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:41.831Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:41.838Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:41.844Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:49.420Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:49.424Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:49.433Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:49.439Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:55.824Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:55.829Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:55.834Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T21:43:55.841Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T21:44:52.024Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:44:52.032Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:44:52.041Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T21:44:52.053Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T21:45:15.367Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:45:15.373Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:45:15.379Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T21:45:15.386Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T21:45:26.548Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:45:26.554Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:45:26.562Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T21:45:26.569Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T21:47:10.292Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:47:10.298Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:47:10.304Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T21:47:10.310Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T21:47:14.815Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:47:14.822Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:47:14.829Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T21:47:14.839Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T21:48:40.823Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:48:40.829Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:48:40.835Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T21:48:40.843Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T21:49:11.268Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:49:11.274Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:49:11.280Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T21:49:11.303Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T21:54:45.865Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:54:45.870Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:54:45.875Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T21:54:45.882Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T21:55:01.333Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:55:01.339Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T21:55:01.344Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T21:55:01.350Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:19:24.688Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:19:24.693Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:19:24.698Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:19:24.706Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:20:00.040Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:20:00.045Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:20:00.052Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:20:00.058Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:20:35.559Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:20:35.567Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:20:35.574Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:20:35.590Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:28:45.734Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:28:45.739Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:28:45.745Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:28:45.755Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:30:40.350Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:30:40.356Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:30:40.362Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:30:40.367Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:31:24.922Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:31:24.927Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:31:24.933Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:31:24.949Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:33:28.571Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:33:28.580Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:33:28.585Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:33:28.591Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:34:09.100Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:34:09.105Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:34:09.110Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:34:09.122Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:34:44.059Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:34:44.064Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:34:44.070Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:34:44.079Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:38:47.967Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:38:47.972Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:38:47.977Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:38:47.987Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:44:19.096Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:44:19.101Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:44:19.106Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:44:19.117Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:44:36.561Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:44:36.566Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:44:36.570Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:44:36.581Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:45:02.216Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:45:02.221Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:45:02.227Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:45:02.233Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:48:44.408Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:48:44.413Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:48:44.419Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:48:44.427Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:54:04.312Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:54:04.319Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:54:04.326Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:54:04.335Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:54:38.589Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:54:38.594Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:54:38.599Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:54:38.609Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:55:39.241Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:55:39.246Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:55:39.251Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:55:39.258Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:55:52.177Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:55:52.182Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:55:52.189Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:55:52.197Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:56:37.353Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:56:37.357Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:56:37.364Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:56:37.376Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:56:53.597Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:56:53.602Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:56:53.606Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:56:53.613Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:57:29.326Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:57:29.331Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:57:29.337Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:57:29.349Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:57:38.884Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:57:38.889Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:57:38.893Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:57:38.899Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T22:58:56.313Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:58:56.318Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T22:58:56.324Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T22:58:56.331Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:03:59.110Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:03:59.116Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:03:59.122Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:03:59.128Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:06:53.634Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:06:53.639Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:06:53.643Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:06:53.650Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:07:13.235Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:07:13.239Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:07:13.244Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:07:13.250Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:07:27.764Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:07:27.770Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:07:27.778Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:07:27.785Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:08:22.076Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:08:22.081Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:08:22.086Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:08:22.092Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:13:08.785Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:13:08.794Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:13:08.801Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:13:08.809Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:13:43.672Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:13:43.677Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:13:43.681Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:13:43.688Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:14:16.583Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:14:16.590Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:14:16.594Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:14:16.604Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:15:28.162Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:15:28.166Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:15:28.172Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:15:28.181Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:15:45.008Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:15:45.013Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:15:45.018Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:15:45.024Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:19:08.249Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:19:08.254Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:19:08.259Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:19:08.265Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:19:51.601Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:19:51.605Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:19:51.609Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:19:51.616Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:20:09.080Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:20:09.085Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:20:09.090Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:20:09.098Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:20:59.918Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:20:59.924Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:20:59.929Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:20:59.937Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:24:06.212Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:24:06.217Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:24:06.222Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:24:06.231Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:35:28.544Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:35:28.549Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:35:28.567Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:35:28.574Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:35:54.523Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:35:54.528Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:35:54.534Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:35:54.540Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:38:21.611Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:38:21.615Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:38:21.620Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:38:21.626Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:38:26.464Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:38:26.469Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:38:26.474Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:38:26.480Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:38:43.208Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:38:43.213Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:38:43.217Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:38:43.223Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:40:35.159Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:40:35.164Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:40:35.168Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:40:35.182Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-15T23:43:39.671Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:43:39.676Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-15T23:43:39.681Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-15T23:43:39.687Z' }

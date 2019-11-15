@@ -73,6 +73,10 @@ const TeacherSchema = new mongoose.Schema({
   rating: {
     type: Number,
     required: true
+  },
+  profile: {
+    type: String,
+    required: true
   }
 });
 

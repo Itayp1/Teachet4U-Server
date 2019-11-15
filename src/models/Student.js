@@ -28,6 +28,10 @@ const StudentSchema = new mongoose.Schema({
   phone: {
     type: String,
     required: true
+  },
+  profile: {
+    type: String,
+    required: true
   }
 });
 
