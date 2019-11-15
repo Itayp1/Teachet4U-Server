@@ -9,6 +9,7 @@ module.exports = class SearchTeacher {
   }
   async getListOfTeachers() {
     const { city, course } = this;
+    console.log(city, course);
     const res = await Teacher.find({
       courses: { $in: [course] },
       studyCities: { $in: [city] }

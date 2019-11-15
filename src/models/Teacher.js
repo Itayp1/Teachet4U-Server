@@ -53,11 +53,11 @@ const TeacherSchema = new mongoose.Schema({
     required: true
   },
   priceAtStudent: {
-    type: String,
+    type: Number,
     required: true
   },
   price: {
-    type: String,
+    type: Number,
     required: true
   },
   availablesDays: {
@@ -71,7 +71,7 @@ const TeacherSchema = new mongoose.Schema({
     default: undefined
   },
   rating: {
-    type: String,
+    type: Number,
     required: true
   }
 });

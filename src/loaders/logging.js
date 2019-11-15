@@ -1,8 +1,9 @@
+/* eslint-disable no-undef */
 const Logger = require("./looger");
 
 module.exports = () => {
   process
-    .on("unhandledRejection", (reason, p) => {
+    .on("unhandledRejection", reason => {
       Logger.error(
         `message:${reason.message || reason} stack:${reason.stack || null}`
       );

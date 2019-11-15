@@ -54,5 +54,14 @@ class Teacher extends User {
 
     return { avaiablesHours };
   }
+
+  async updateInfo() {
+    console.log(this.email);
+    const result = TeacherQuery.findOneAndUpdate(
+      { email: this.email },
+      this.email
+    );
+    return result;
+  }
 }
 module.exports = Teacher;

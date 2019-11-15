@@ -1,6 +1,5 @@
 const mongoose = require("mongoose"),
   TimeTable = mongoose.model("TimeTable");
-// CError = require("../services/CustomError");
 
 module.exports = class Lessons {
   constructor(teacherEmail, studentEmail, cource, date, time, status) {
@@ -16,5 +15,9 @@ module.exports = class Lessons {
     const timeTable = new TimeTable(this);
     const result = await timeTable.save();
     return result;
+  }
+  async getTimeTable(email) {
+    const timeTable = await TimeTable.find({ email });
+    return timeTable;
   }
 };

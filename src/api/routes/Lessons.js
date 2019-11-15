@@ -4,14 +4,14 @@ const router = require("express").Router(),
 
 require("express-async-errors");
 
-router.get("/getavaiabletime", async (req, res, next) => {
+router.get("/getavaiabletime", async (req, res) => {
   const { email, date } = req.query;
   const getAvaiableTime = new GetAvaiableTime(email);
   const result = await getAvaiableTime.getAvaiableTime(date);
   res.json(result);
 });
 
-router.post("/appointmentLesson", async (req, res, next) => {
+router.post("/appointmentLesson", async (req, res) => {
   const { teacherEmail, studentEmail, cource, date, time, status } = req.body;
   const lesson = new Lesson(
     teacherEmail,
@@ -25,4 +25,12 @@ router.post("/appointmentLesson", async (req, res, next) => {
   res.json(result);
 });
 
+router.get("/timetable", async (req, res) => {
+  const { email } = req.query;
+
+  const timeTable = new Lesson(email);
+
+  const result = await timeTable.getTimeTable();
+  res.json(result);
+});
 module.exports = router;
