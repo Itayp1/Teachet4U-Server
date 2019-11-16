@@ -68,7 +68,15 @@ let mailOptions = {
   html: "<p>pppppp</p>" // html body emailBody
 };
 
-transporter.sendMail(mailOptions, (err, data) => {
+const temp = {
+  from: "Teacher4U@Teacher4U.com",
+  to: "peretz.itay@gmail.com",
+  subject: "itay ברוך הבא",
+  text: "heyy there",
+  html: "<p>dsfdsf</p>"
+};
+
+transporter.sendMail(temp, (err, data) => {
   if (err) {
     console.log(err);
     return;

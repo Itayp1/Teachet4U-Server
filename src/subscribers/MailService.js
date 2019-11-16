@@ -12,26 +12,26 @@ const transporter = nodemailer.createTransport({
 });
 
 module.exports = class Lessons {
-  constructor(recipient, subject, textBody, htmlBody) {
+  constructor(to, subject, text, html) {
     this.mailOptions = {
-      from: "teacher4u.app@gmail.com",
-      to: recipient,
-      subject: subject
+      from: "Teacher4U@Teacher4U.com",
+      to,
+      subject,
+      text,
+      html
     };
-    textBody ? (this.mailOptions.text = textBody) : null;
-    htmlBody ? (this.mailOptions.html = htmlBody) : null;
   }
 
   sendEmail() {
-    let mailOptions = {
-      from: "Teacher4U@Teacher4U.com",
-      to: "peretz.itay@gmail.com",
-      subject: "ברוך הבא",
-      text: "Wooohooo it works!!",
-      html: "<p>NUMBER 1</p>" // html body emailBody
-    };
-    console.log(mailOptions);
-    transporter.sendMail(mailOptions, (err, data) => {
+    // let mailOptions = {
+    //   from: "Teacher4U@Teacher4U.com",
+    //   to: "peretz.itay@gmail.com",
+    //   subject: "ברוך הבא",
+    //   text: "Wooohooo it works!!",
+    //   html: "<p>NUMBER 1</p>" // html body emailBody
+    // };
+    console.log(this.mailOptions);
+    transporter.sendMail(this.mailOptions, (err, data) => {
       if (err) {
         console.log(err);
         return;

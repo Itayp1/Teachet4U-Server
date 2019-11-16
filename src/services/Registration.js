@@ -12,7 +12,7 @@ module.exports = class Registration {
     // console.log(this.userDetails);
     const teacher = new Teacher(this.userDetails);
     const res = await teacher.save();
-    emitter.emit("user-registered", "peretz.itay@gmail.com", "hello");
+    emitter.emit("user-registered", res);
 
     return res;
   }

@@ -1,8 +1,10 @@
 const MailService = require("./MailService");
 // eslint-disable-next-line no-unused-vars
-module.exports = (recipient, subject, textMsg, htmlMsg) => {
+module.exports = obj => {
+  const { email, name } = obj;
+  const subject = `${name} ברוך הבא`;
   const mailService = new MailService(
-    recipient,
+    email,
     subject,
     "heyy there",
     "<p>dsfdsf</p>"
