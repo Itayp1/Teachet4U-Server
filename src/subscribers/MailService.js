@@ -3,12 +3,11 @@ const nodemailer = require("nodemailer"),
   config = require("../../server.config");
 
 const transporter = nodemailer.createTransport({
-  host: config.SMTP_HOST,
+  service: "gmail",
   auth: {
-    user: config.SMTP_USER,
-    pass: process.env.SMTP_PASS
-  },
-  port: config.SMTP_PORT
+    user: "teacher4u.app@gmail.com",
+    pass: "Alroe2018"
+  }
 });
 
 module.exports = class Lessons {
@@ -23,20 +22,12 @@ module.exports = class Lessons {
   }
 
   sendEmail() {
-    // let mailOptions = {
-    //   from: "Teacher4U@Teacher4U.com",
-    //   to: "peretz.itay@gmail.com",
-    //   subject: "ברוך הבא",
-    //   text: "Wooohooo it works!!",
-    //   html: "<p>NUMBER 1</p>" // html body emailBody
-    // };
-    console.log(this.mailOptions);
     transporter.sendMail(this.mailOptions, (err, data) => {
       if (err) {
-        console.log(err);
+        Logger.error(err);
         return;
       }
-      console.log(JSON.stringify(data));
+      Logger.info(JSON.stringify(data));
     });
   }
 };

@@ -9,7 +9,6 @@ module.exports = class Registration {
   }
 
   async registerAsTeacher() {
-    // console.log(this.userDetails);
     const teacher = new Teacher(this.userDetails);
     const res = await teacher.save();
     emitter.emit("user-registered", res);
@@ -18,9 +17,10 @@ module.exports = class Registration {
   }
 
   async registerAsStudent() {
-    // console.log(this.userDetails);
     const student = new Student(this.userDetails);
     const res = await student.save();
+    emitter.emit("user-registered", res);
+
     return res;
   }
 };
