@@ -6656,3 +6656,1606 @@
    '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
   level: 'info',
   timestamp: '2019-11-15T23:43:39.687Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T09:20:54.267Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:20:54.272Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:20:54.278Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T09:20:54.286Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T09:54:45.022Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:54:45.027Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:54:45.031Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T09:54:45.043Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T09:55:18.805Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:55:18.810Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:55:18.816Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T09:55:18.827Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T09:56:22.543Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:56:22.548Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:56:22.554Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T09:56:22.570Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T09:56:58.801Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:56:58.806Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:56:58.811Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T09:56:58.832Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T09:58:05.869Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:58:05.875Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:58:05.880Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T09:58:05.886Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T09:58:23.198Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:58:23.202Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:58:23.207Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T09:58:23.220Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T09:59:02.697Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:59:02.702Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:59:02.707Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T09:59:02.723Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T09:59:31.820Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:59:31.824Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T09:59:31.829Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T09:59:31.842Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T12:27:04.414Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:27:04.419Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:27:04.424Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T12:27:04.437Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T12:29:04.049Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:29:04.060Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:29:04.098Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T12:29:04.127Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T12:32:11.659Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:32:11.680Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:32:11.691Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T12:32:11.713Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T12:34:58.104Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:34:58.110Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:34:58.117Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T12:34:58.131Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T12:35:38.507Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:35:38.512Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:35:38.518Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T12:35:38.530Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T12:37:25.375Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:37:25.402Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:37:25.419Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T12:37:25.438Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T12:38:16.338Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:38:16.351Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:38:16.375Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T12:38:16.384Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T12:39:07.490Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:39:07.495Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:39:07.501Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T12:39:07.526Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T12:39:34.514Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:39:34.520Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:39:34.526Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T12:39:34.540Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T12:40:38.407Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:40:38.413Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:40:38.420Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T12:40:38.431Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T12:41:05.434Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:41:05.440Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:41:05.444Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T12:41:05.456Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T12:41:11.740Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:41:11.749Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T12:41:11.758Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T12:41:11.782Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T13:07:52.834Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:07:52.840Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:07:52.848Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T13:07:52.857Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T13:09:00.143Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:09:00.149Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:09:00.157Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T13:09:00.165Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T13:10:12.581Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:10:12.588Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:10:12.593Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T13:10:12.598Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T13:17:29.063Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:17:29.068Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:17:29.074Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T13:17:29.081Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T13:30:18.857Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:30:18.881Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:30:18.903Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T13:30:18.914Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T13:30:25.090Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:30:25.103Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:30:25.151Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T13:30:25.167Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T13:33:12.552Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:33:12.558Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:33:12.564Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T13:33:12.571Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T13:34:57.686Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:34:57.698Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:34:57.711Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T13:34:57.726Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T13:36:43.285Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:36:43.289Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:36:43.293Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T13:36:43.300Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T13:50:41.665Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:50:41.670Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:50:41.677Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T13:50:41.684Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T13:54:12.918Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:54:12.925Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:54:12.931Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T13:54:12.938Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T13:54:41.517Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:54:41.534Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:54:41.538Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T13:54:41.547Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T13:54:55.676Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:54:55.680Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T13:54:55.685Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T13:54:55.692Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:00:32.369Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:00:32.375Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:00:32.381Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:00:32.395Z' }
+{ code: 'EAUTH',
+  command: 'API',
+  level: 'error',
+  timestamp: '2019-11-16T14:00:41.693Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:01:56.931Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:01:56.937Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:01:56.958Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:01:56.973Z' }
+{ message:
+   'erroring Error: Missing credentials for "PLAIN" Error: Missing credentials for "PLAIN"\n    at SMTPConnection._formatError (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:771:19)\n    at SMTPConnection.login (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:442:38)\n    at connection.connect (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:271:32)\n    at SMTPConnection.once (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:209:17)\n    at Object.onceWrapper (events.js:277:13)\n    at SMTPConnection.emit (events.js:189:13)\n    at SMTPConnection._actionEHLO (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1298:14)\n    at SMTPConnection._processResponse (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:929:20)\n    at SMTPConnection._onData (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:736:14)\n    at TLSSocket.SMTPConnection._onSocketData.chunk (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:189:44)\n    at TLSSocket.emit (events.js:189:13)\n    at addChunk (_stream_readable.js:284:12)\n    at readableAddChunk (_stream_readable.js:265:11)\n    at TLSSocket.Readable.push (_stream_readable.js:220:10)\n    at TLSWrap.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)',
+  level: 'error',
+  timestamp: '2019-11-16T14:02:01.571Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:03:01.436Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:03:01.445Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:03:01.456Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:03:01.478Z' }
+{ message:
+   'erroring Error: No recipients defined Error: No recipients defined\n    at SMTPConnection._formatError (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:771:19)\n    at SMTPConnection._setEnvelope (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:982:34)\n    at SMTPConnection.send (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:609:14)\n    at sendMessage (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:227:28)\n    at connection.login.err (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:285:25)\n    at SMTPConnection._actionAUTHComplete (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1519:9)\n    at SMTPConnection._responseActions.push.str (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:544:26)\n    at SMTPConnection._processResponse (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:929:20)\n    at SMTPConnection._onData (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:736:14)\n    at TLSSocket.SMTPConnection._onSocketData.chunk (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:189:44)\n    at TLSSocket.emit (events.js:189:13)\n    at addChunk (_stream_readable.js:284:12)\n    at readableAddChunk (_stream_readable.js:265:11)\n    at TLSSocket.Readable.push (_stream_readable.js:220:10)\n    at TLSWrap.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)',
+  level: 'error',
+  timestamp: '2019-11-16T14:03:10.526Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:04:09.179Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:04:09.205Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:04:09.307Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:04:09.343Z' }
+{ message:
+   'erroring Error: No recipients defined Error: No recipients defined\n    at SMTPConnection._formatError (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:771:19)\n    at SMTPConnection._setEnvelope (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:982:34)\n    at SMTPConnection.send (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:609:14)\n    at sendMessage (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:227:28)\n    at connection.login.err (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:285:25)\n    at SMTPConnection._actionAUTHComplete (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1519:9)\n    at SMTPConnection._responseActions.push.str (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:544:26)\n    at SMTPConnection._processResponse (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:929:20)\n    at SMTPConnection._onData (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:736:14)\n    at TLSSocket.SMTPConnection._onSocketData.chunk (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:189:44)\n    at TLSSocket.emit (events.js:189:13)\n    at addChunk (_stream_readable.js:284:12)\n    at readableAddChunk (_stream_readable.js:265:11)\n    at TLSSocket.Readable.push (_stream_readable.js:220:10)\n    at TLSWrap.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)',
+  level: 'error',
+  timestamp: '2019-11-16T14:04:14.931Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:05:38.127Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:05:38.146Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:05:38.165Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:05:38.188Z' }
+{ message:
+   'erroring Error: No recipients defined Error: No recipients defined\n    at SMTPConnection._formatError (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:771:19)\n    at SMTPConnection._setEnvelope (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:982:34)\n    at SMTPConnection.send (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:609:14)\n    at sendMessage (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:227:28)\n    at connection.login.err (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:285:25)\n    at SMTPConnection._actionAUTHComplete (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1519:9)\n    at SMTPConnection._responseActions.push.str (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:544:26)\n    at SMTPConnection._processResponse (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:929:20)\n    at SMTPConnection._onData (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:736:14)\n    at TLSSocket.SMTPConnection._onSocketData.chunk (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:189:44)\n    at TLSSocket.emit (events.js:189:13)\n    at addChunk (_stream_readable.js:284:12)\n    at readableAddChunk (_stream_readable.js:265:11)\n    at TLSSocket.Readable.push (_stream_readable.js:220:10)\n    at TLSWrap.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)',
+  level: 'error',
+  timestamp: '2019-11-16T14:05:52.443Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:06:27.309Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:06:27.317Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:06:27.322Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:06:27.338Z' }
+{ message:
+   'erroring Error: No recipients defined Error: No recipients defined\n    at SMTPConnection._formatError (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:771:19)\n    at SMTPConnection._setEnvelope (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:982:34)\n    at SMTPConnection.send (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:609:14)\n    at sendMessage (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:227:28)\n    at connection.login.err (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:285:25)\n    at SMTPConnection._actionAUTHComplete (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1519:9)\n    at SMTPConnection._responseActions.push.str (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:544:26)\n    at SMTPConnection._processResponse (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:929:20)\n    at SMTPConnection._onData (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:736:14)\n    at TLSSocket.SMTPConnection._onSocketData.chunk (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:189:44)\n    at TLSSocket.emit (events.js:189:13)\n    at addChunk (_stream_readable.js:284:12)\n    at readableAddChunk (_stream_readable.js:265:11)\n    at TLSSocket.Readable.push (_stream_readable.js:220:10)\n    at TLSWrap.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)',
+  level: 'error',
+  timestamp: '2019-11-16T14:06:31.724Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:07:14.498Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:07:14.504Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:07:14.509Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:07:14.524Z' }
+{ message:
+   'erroring Error: No recipients defined Error: No recipients defined\n    at SMTPConnection._formatError (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:771:19)\n    at SMTPConnection._setEnvelope (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:982:34)\n    at SMTPConnection.send (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:609:14)\n    at sendMessage (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:227:28)\n    at connection.login.err (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:285:25)\n    at SMTPConnection._actionAUTHComplete (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1519:9)\n    at SMTPConnection._responseActions.push.str (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:544:26)\n    at SMTPConnection._processResponse (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:929:20)\n    at SMTPConnection._onData (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:736:14)\n    at TLSSocket.SMTPConnection._onSocketData.chunk (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:189:44)\n    at TLSSocket.emit (events.js:189:13)\n    at addChunk (_stream_readable.js:284:12)\n    at readableAddChunk (_stream_readable.js:265:11)\n    at TLSSocket.Readable.push (_stream_readable.js:220:10)\n    at TLSWrap.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)',
+  level: 'error',
+  timestamp: '2019-11-16T14:07:23.020Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:07:57.481Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:07:57.489Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:07:57.495Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:07:57.516Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:08:50.581Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:08:50.592Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:08:50.603Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:08:50.638Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:08:59.106Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:08:59.141Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:08:59.173Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:08:59.181Z' }
+{ message:
+   'erroring Error: No recipients defined Error: No recipients defined\n    at SMTPConnection._formatError (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:771:19)\n    at SMTPConnection._setEnvelope (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:982:34)\n    at SMTPConnection.send (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:609:14)\n    at sendMessage (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:227:28)\n    at connection.login.err (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:285:25)\n    at SMTPConnection._actionAUTHComplete (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1519:9)\n    at SMTPConnection._responseActions.push.str (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:544:26)\n    at SMTPConnection._processResponse (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:929:20)\n    at SMTPConnection._onData (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:736:14)\n    at TLSSocket.SMTPConnection._onSocketData.chunk (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:189:44)\n    at TLSSocket.emit (events.js:189:13)\n    at addChunk (_stream_readable.js:284:12)\n    at readableAddChunk (_stream_readable.js:265:11)\n    at TLSSocket.Readable.push (_stream_readable.js:220:10)\n    at TLSWrap.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)',
+  level: 'error',
+  timestamp: '2019-11-16T14:09:07.011Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:09:26.103Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:09:26.116Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:09:26.141Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:09:26.167Z' }
+{ message:
+   'erroring Error: No recipients defined Error: No recipients defined\n    at SMTPConnection._formatError (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:771:19)\n    at SMTPConnection._setEnvelope (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:982:34)\n    at SMTPConnection.send (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:609:14)\n    at sendMessage (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:227:28)\n    at connection.login.err (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:285:25)\n    at SMTPConnection._actionAUTHComplete (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1519:9)\n    at SMTPConnection._responseActions.push.str (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:544:26)\n    at SMTPConnection._processResponse (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:929:20)\n    at SMTPConnection._onData (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:736:14)\n    at TLSSocket.SMTPConnection._onSocketData.chunk (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:189:44)\n    at TLSSocket.emit (events.js:189:13)\n    at addChunk (_stream_readable.js:284:12)\n    at readableAddChunk (_stream_readable.js:265:11)\n    at TLSSocket.Readable.push (_stream_readable.js:220:10)\n    at TLSWrap.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)',
+  level: 'error',
+  timestamp: '2019-11-16T14:09:32.223Z' }
+{ message:
+   'erroring Error: No recipients defined Error: No recipients defined\n    at SMTPConnection._formatError (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:771:19)\n    at SMTPConnection._setEnvelope (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:982:34)\n    at SMTPConnection.send (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:609:14)\n    at sendMessage (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:227:28)\n    at connection.login.err (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:285:25)\n    at SMTPConnection._actionAUTHComplete (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1519:9)\n    at SMTPConnection._responseActions.push.str (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:544:26)\n    at SMTPConnection._processResponse (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:929:20)\n    at SMTPConnection._onData (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:736:14)\n    at TLSSocket.SMTPConnection._onSocketData.chunk (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:189:44)\n    at TLSSocket.emit (events.js:189:13)\n    at addChunk (_stream_readable.js:284:12)\n    at readableAddChunk (_stream_readable.js:265:11)\n    at TLSSocket.Readable.push (_stream_readable.js:220:10)\n    at TLSWrap.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)',
+  level: 'error',
+  timestamp: '2019-11-16T14:10:02.331Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:10:32.564Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:10:32.595Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:10:32.638Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:10:32.648Z' }
+{ message:
+   'erroring Error: No recipients defined Error: No recipients defined\n    at SMTPConnection._formatError (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:771:19)\n    at SMTPConnection._setEnvelope (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:982:34)\n    at SMTPConnection.send (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:609:14)\n    at sendMessage (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:227:28)\n    at connection.login.err (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:285:25)\n    at SMTPConnection._actionAUTHComplete (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1519:9)\n    at SMTPConnection._responseActions.push.str (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:544:26)\n    at SMTPConnection._processResponse (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:929:20)\n    at SMTPConnection._onData (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:736:14)\n    at TLSSocket.SMTPConnection._onSocketData.chunk (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:189:44)\n    at TLSSocket.emit (events.js:189:13)\n    at addChunk (_stream_readable.js:284:12)\n    at readableAddChunk (_stream_readable.js:265:11)\n    at TLSSocket.Readable.push (_stream_readable.js:220:10)\n    at TLSWrap.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)',
+  level: 'error',
+  timestamp: '2019-11-16T14:10:40.595Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:11:42.295Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:11:42.301Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:11:42.307Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:11:42.312Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:11:48.989Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:11:49.003Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:11:49.046Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:11:49.084Z' }
+{ message:
+   'erroring Error: No recipients defined Error: No recipients defined\n    at SMTPConnection._formatError (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:771:19)\n    at SMTPConnection._setEnvelope (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:982:34)\n    at SMTPConnection.send (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:609:14)\n    at sendMessage (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:227:28)\n    at connection.login.err (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:285:25)\n    at SMTPConnection._actionAUTHComplete (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1519:9)\n    at SMTPConnection._responseActions.push.str (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:544:26)\n    at SMTPConnection._processResponse (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:929:20)\n    at SMTPConnection._onData (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:736:14)\n    at TLSSocket.SMTPConnection._onSocketData.chunk (C:\\Programing\\git\\Teacher4U-Server\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:189:44)\n    at TLSSocket.emit (events.js:189:13)\n    at addChunk (_stream_readable.js:284:12)\n    at readableAddChunk (_stream_readable.js:265:11)\n    at TLSSocket.Readable.push (_stream_readable.js:220:10)\n    at TLSWrap.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)',
+  level: 'error',
+  timestamp: '2019-11-16T14:11:54.065Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:12:42.242Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:12:42.247Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:12:42.252Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:12:42.267Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:13:08.436Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:13:08.441Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:13:08.446Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:13:08.470Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:13:43.528Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:13:43.533Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:13:43.541Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:13:43.552Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:14:27.171Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:14:27.191Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:14:27.204Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:14:27.251Z' }
+{ message: '"Email sent!!!" \n [object Object]',
+  level: 'info',
+  timestamp: '2019-11-16T14:14:39.741Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:15:25.582Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:15:25.589Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:15:25.595Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:15:25.606Z' }
+{ message:
+   '"Email sent!!!" \n {"accepted":["peretz.itay@gmail.com"],"rejected":[],"envelopeTime":232,"messageTime":399,"messageSize":270,"response":"250 OK queued as 69c038b9-9563-4480-83f9-7568316f3dff","envelope":{"from":"teacher4u.app@gmail.com","to":["peretz.itay@gmail.com"]},"messageId":"<5cefe91e-cb22-a9a9-3126-866baf54edb9@gmail.com>"}',
+  level: 'info',
+  timestamp: '2019-11-16T14:15:29.307Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:16:54.095Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:16:54.107Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:16:54.119Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:16:54.141Z' }
+{ message:
+   '"Email sent!!!" \n {"accepted":["peretz.itay@gmail.com"],"rejected":[],"envelopeTime":239,"messageTime":299,"messageSize":270,"response":"250 OK queued as 795fa9f9-9fb7-4b94-8f43-e21db634c0bf","envelope":{"from":"teacher4u.app@gmail.com","to":["peretz.itay@gmail.com"]},"messageId":"<5d82dd97-3043-314e-cb94-9d84f8f1ebab@gmail.com>"}',
+  level: 'info',
+  timestamp: '2019-11-16T14:18:42.621Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:20:09.287Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:20:09.300Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:20:09.307Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:20:09.313Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:20:13.989Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:20:13.994Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:20:13.999Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:20:14.006Z' }
+{ message:
+   '"Email sent!!!" \n {"accepted":["peretz.itay@gmail.com"],"rejected":[],"envelopeTime":270,"messageTime":302,"messageSize":270,"response":"250 OK queued as 36bb6d58-5ec5-4516-88b0-59d361e59a0a","envelope":{"from":"teacher4u.app@gmail.com","to":["peretz.itay@gmail.com"]},"messageId":"<755c0957-fed2-d702-48a8-061c85a646dc@gmail.com>"}',
+  level: 'info',
+  timestamp: '2019-11-16T14:20:18.269Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:21:23.054Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:21:23.073Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:21:23.088Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:21:23.103Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:21:49.116Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:21:49.133Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:21:49.141Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:21:49.151Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:22:20.453Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:22:20.458Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:22:20.463Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:22:20.468Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:23:16.544Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:23:16.551Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:23:16.558Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:23:16.569Z' }
+{ message:
+   '"Email sent!!!" \n {"accepted":["peretz.itay@gmail.com"],"rejected":[],"envelopeTime":287,"messageTime":282,"messageSize":533,"response":"250 OK queued as f43ac24c-d06b-482e-882c-e6510dcde9b6","envelope":{"from":"teacher4u.app@gmail.com","to":["peretz.itay@gmail.com"]},"messageId":"<3d5165ca-dbb0-465e-e2ac-ea80dc492fd9@gmail.com>"}',
+  level: 'info',
+  timestamp: '2019-11-16T14:23:25.782Z' }
+{ message:
+   '"Email sent!!!" \n {"accepted":["peretz.itay@gmail.com"],"rejected":[],"envelopeTime":250,"messageTime":279,"messageSize":533,"response":"250 OK queued as 39adf89a-f37e-4c40-93a6-c3fb26d172b0","envelope":{"from":"teacher4u.app@gmail.com","to":["peretz.itay@gmail.com"]},"messageId":"<2f20106e-31da-e97b-fb1b-42c7752e798b@gmail.com>"}',
+  level: 'info',
+  timestamp: '2019-11-16T14:23:53.400Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:25:44.785Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:25:44.798Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:25:44.808Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:25:44.829Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:25:58.409Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:26:02.147Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:26:02.158Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:26:02.170Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:26:02.182Z' }
+{ message:
+   '"Email sent!!!" \n {"accepted":["peretz.itay@gmail.com"],"rejected":[],"envelopeTime":275,"messageTime":265,"messageSize":573,"response":"250 OK queued as e0b2d8a7-eb60-48b7-8c93-a5b1aa3e2208","envelope":{"from":"Teacher4U@teacher4u.com","to":["peretz.itay@gmail.com"]},"messageId":"<c8037a9b-c1c8-d0d0-9269-4fa393f9678e@teacher4u.com>"}',
+  level: 'info',
+  timestamp: '2019-11-16T14:26:11.632Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:29:30.046Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:29:30.052Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:29:30.059Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:29:30.066Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:30:11.648Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:30:11.660Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:30:11.668Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:30:11.680Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:30:26.842Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:30:26.850Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:30:26.856Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:30:26.862Z' }
+{ message:
+   '"Email sent!!!" \n {"accepted":["peretz.itay@gmail.com"],"rejected":[],"envelopeTime":246,"messageTime":293,"messageSize":573,"response":"250 OK queued as 6fde4609-ee2d-4927-b171-2da2465e3cc1","envelope":{"from":"Teacher4U@teacher4u.com","to":["peretz.itay@gmail.com"]},"messageId":"<a2f69c08-6bbd-a8f7-599a-f8cd4f0143db@teacher4u.com>"}',
+  level: 'info',
+  timestamp: '2019-11-16T14:30:42.588Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:32:45.514Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:32:45.523Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:32:45.532Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:32:45.550Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:33:57.064Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:33:57.073Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:33:57.086Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:33:57.098Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:35:33.398Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:35:33.405Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:35:33.415Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:35:33.431Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:36:06.053Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:36:06.077Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:36:06.145Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:36:06.154Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:36:50.195Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:36:50.202Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:36:50.206Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:36:50.213Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:37:05.791Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:37:05.807Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:37:05.826Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:37:05.883Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:39:23.664Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:39:23.667Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:39:23.673Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:39:23.685Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:40:10.768Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:40:10.782Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:40:10.849Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:40:10.863Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:40:39.409Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:40:39.414Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:40:39.420Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:40:39.428Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:40:55.783Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:40:55.786Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:40:55.793Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:40:55.804Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:41:02.988Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:41:03.011Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:41:03.085Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:41:03.093Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:41:54.003Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:41:54.017Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:41:54.042Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:41:54.073Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:03.121Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:03.135Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:03.154Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:03.209Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:22.508Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:22.514Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:22.521Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:22.530Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:43.747Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:43.775Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:43.798Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:43.821Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:55.518Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:55.527Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:55.542Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:43:55.552Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:44:30.988Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:44:31.006Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:44:31.013Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:44:31.020Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:44:42.420Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:44:42.429Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:44:42.436Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:44:42.446Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:45:48.023Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:45:48.028Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:45:48.033Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:45:48.042Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:46:33.687Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:46:33.712Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:46:33.732Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:46:33.749Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:47:25.541Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:47:25.551Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:47:25.570Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:47:25.578Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:47:31.934Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:47:31.953Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:47:31.962Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:47:31.973Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:47:41.463Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:47:41.481Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:47:41.486Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:47:41.495Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:48:45.665Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:48:45.679Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:48:45.706Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:48:45.716Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:49:05.109Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:49:05.142Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:49:05.224Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:49:05.246Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:49:43.767Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:49:43.773Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:49:43.778Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:49:43.786Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:50:00.378Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:50:00.385Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:50:00.393Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:50:00.412Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:50:16.785Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:50:16.791Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:50:16.801Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:50:16.809Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:50:56.859Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:50:56.864Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:50:56.868Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:50:56.879Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:51:07.550Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:51:07.555Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:51:07.561Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:51:07.571Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:51:19.514Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:51:19.552Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:51:19.558Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:51:19.566Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:51:44.581Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:51:44.600Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:51:44.610Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:51:44.631Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:52:03.235Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:52:03.243Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:52:03.249Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:52:03.259Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:52:50.066Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:52:50.078Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:52:50.086Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:52:50.102Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:53:29.142Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:53:29.160Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:53:29.168Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:53:29.183Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:12.818Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:12.828Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:12.856Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:12.873Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:20.122Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:20.137Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:20.142Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:20.151Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:30.553Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:30.559Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:30.565Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:30.573Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:39.356Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:39.365Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:39.374Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:54:39.398Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:55:06.653Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:55:06.658Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:55:06.663Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:55:06.675Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:55:42.633Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:55:42.652Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:55:42.670Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:55:42.693Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:56:06.087Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:56:06.090Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:56:06.098Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:56:06.104Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:57:44.069Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:57:44.074Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:57:44.080Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:57:44.090Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T14:59:05.573Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:59:05.592Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T14:59:05.652Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T14:59:05.695Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T15:03:00.286Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:03:00.297Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:03:00.313Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T15:03:00.360Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T15:03:59.575Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:03:59.588Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:03:59.614Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T15:03:59.641Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T15:05:12.456Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:05:12.463Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:05:12.468Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T15:05:12.481Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T15:07:10.220Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:07:10.226Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:07:10.234Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T15:07:10.249Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T15:20:50.964Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:20:50.989Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:20:51.048Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T15:20:51.083Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T15:28:58.583Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:28:58.596Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:28:58.612Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T15:28:58.631Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T15:29:50.250Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:29:50.255Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:29:50.262Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T15:29:50.273Z' }
+{ message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-16T15:30:58.314Z' }
+{ message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:30:58.320Z' }
+{ message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-16T15:30:58.327Z' }
+{ message:
+   '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
+  level: 'info',
+  timestamp: '2019-11-16T15:30:58.336Z' }

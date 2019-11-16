@@ -2,7 +2,7 @@ const models = require("../models")();
 const mongooseLoader = require("./mongoose");
 const expressLoader = require("./express");
 const Logger = require("./looger");
-
+require("../subscribers/send_email_on_registration");
 module.exports = async app => {
   await mongooseLoader();
   Logger.info("✌️ DB loaded and connected!");

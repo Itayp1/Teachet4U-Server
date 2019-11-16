@@ -1,6 +1,7 @@
 const mongoose = require("mongoose"),
   Teacher = mongoose.model("Teacher"),
-  Student = mongoose.model("Student");
+  Student = mongoose.model("Student"),
+  emitter = require("../subscribers/index");
 
 module.exports = class Registration {
   constructor(userDetails) {
@@ -11,6 +12,8 @@ module.exports = class Registration {
     // console.log(this.userDetails);
     const teacher = new Teacher(this.userDetails);
     const res = await teacher.save();
+    emitter.emit("user-registered", "peretz.itay@gmail.com", "hello");
+
     return res;
   }
 
