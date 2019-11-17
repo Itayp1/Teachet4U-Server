@@ -1,6 +1,6 @@
 const router = require("express").Router();
-
-router.get("/mock", (req, res) => {
+const verifyToken = require("../../middleware/verifyToken");
+router.get("/mock", verifyToken, (req, res, next) => {
   res.send("ok");
 });
 module.exports = router;

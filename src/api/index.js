@@ -4,7 +4,6 @@ const router = require("express").Router(),
   SearchTeacher = require("./routes/SearchTeacher"),
   Lessons = require("./routes/Lessons"),
   UpdateInfo = require("./routes/UpdateInfo");
-
 router.use("/", MOCK);
 router.use("/registration", REGISTRATION);
 router.use("/searchTeacher", SearchTeacher);

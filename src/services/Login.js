@@ -16,7 +16,7 @@ module.exports = class Login {
       const result = await axios.get();
       return result;
     } catch (error) {
-      console.log(error);
+      throw new Error("invalid token");
     }
   }
 };

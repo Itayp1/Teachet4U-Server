@@ -7,6 +7,7 @@ const bodyParser = require("body-parser"),
   helmet = require("helmet"),
   compression = require("compression"),
   isProduction = process.env.ENV === "production";
+require("express-async-errors");
 
 module.exports = app => {
   if (!isProduction) {
@@ -37,17 +38,16 @@ module.exports = app => {
   /// catch 404 and forward to error handler
   app.use((req, res, next) => {
     const err = new Error("Not Found");
-    err["status"] = 404;
+    err.status = 404;
+    console.log("callerr");
     next(err);
   });
+  console.log("in app.use");
   // catch exeptions from the express handler
-  app.use((err, req, res) => {
-    console.log(err);
-    res.status(err.status || 500);
-    res.json({
-      errors: {
-        message: err.message
-      }
-    });
+  app.use((error, req, res, next) => {
+    error["status"] = error.status || 500;
+    // Any request to this server will get here, and will send an HTTP
+    // response with the error message 'woops'
+    res.json({ message: error.message });
   });
 };
