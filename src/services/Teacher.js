@@ -2,7 +2,6 @@ const User = require("./User"),
   mongoose = require("mongoose"),
   TeacherQuery = mongoose.model("Teacher"),
   TimeTable = mongoose.model("TimeTable"),
-  CError = require("../services/CustomError"),
   _ = require("lodash");
 mongoose.set("useFindAndModify", false);
 
@@ -27,8 +26,8 @@ class Teacher extends User {
   }
 
   async isExist() {
-    const { email } = this;
-    const isExist = await TeacherQuery.findOne({ email });
+    //const { email } = this;
+    // const isExist = await TeacherQuery.findOne({ email });
     // if (isExist) throw new CError("User already registered.", 400);
   }
   async getAvaiableTime(date) {
