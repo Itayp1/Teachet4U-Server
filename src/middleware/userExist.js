@@ -4,10 +4,17 @@ const Student = require("../services/Student"),
 
 module.exports = async (req, res, next) => {
   const { email } = req.body;
-  let isExist = null;
   const teacher = new Teacher(email, null, null);
-  isExist = await teacher.isExist();
+  const teacherExist = await teacher.isExist();
   const student = new Student(email, null, null);
-  isExist = await student.isExist();
+  const studentExist = await student.isExist();
+  if (teacherExist) {
+    res.locals.profile = "teacher";
+  } else if (studentExist) {
+    res.locals.profile = "teachstudenter";
+  } else {
+    throw new Error("user not exist");
+  }
+
   next();
 };
