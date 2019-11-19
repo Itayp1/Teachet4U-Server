@@ -11381,3 +11381,27 @@
    '\n        ################################################\n             Server listening on port: 3000 \n        ################################################\n      ',
   level: 'info',
   timestamp: '2019-11-18T14:11:30.515Z' }
+{
+  message: '✌️ DB loaded and connected!',
+  level: 'info',
+  timestamp: '2019-11-19T10:57:57.161Z'
+}
+{
+  message: '✌️ DB models loaded!',
+  level: 'info',
+  timestamp: '2019-11-19T10:57:57.182Z'
+}
+{
+  message: '✌️ Express loaded!',
+  level: 'info',
+  timestamp: '2019-11-19T10:57:57.281Z'
+}
+{
+  message: '\n' +
+    '        ################################################\n' +
+    '             Server listening on port: 3000 \n' +
+    '        ################################################\n' +
+    '      ',
+  level: 'info',
+  timestamp: '2019-11-19T10:57:57.304Z'
+}

@@ -8,7 +8,7 @@ const startServer = async () => {
   await loaders(app);
   app.listen(3000, err => {
     if (err) {
-      console.log(err);
+      Logger.error(err);
       process.exit(1);
       return;
     }
