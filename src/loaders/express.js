@@ -44,10 +44,11 @@ module.exports = app => {
   });
   console.log("in app.use");
   // catch exeptions from the express handler
-  app.use((error, req, res, next) => {
-    error["status"] = error.status || 500;
+
+  app.use((err, req, res, next) => {
     // Any request to this server will get here, and will send an HTTP
-    // response with the error message 'woops'
-    res.json({ message: error.message });
+    const status = err.status || 500;
+
+    res.status(status).json({ status: err.message });
   });
 };

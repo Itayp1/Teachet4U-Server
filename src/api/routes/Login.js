@@ -1,7 +1,10 @@
 const router = require("express").Router(),
-  verifytoken = require("../../middleware/verifyToken");
+  verifyRegisteredUserByToken = require("../../middleware/verifyRegisteredUserByToken");
 
-router.get("/", verifytoken, (req, res) => {
+router.get("/", verifyRegisteredUserByToken, (req, res) => {
+  console.log(
+    "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+  );
   res.send("ok");
 });
 module.exports = router;

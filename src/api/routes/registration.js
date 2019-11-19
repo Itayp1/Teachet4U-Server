@@ -4,7 +4,7 @@ const router = require("express").Router(),
 
 require("express-async-errors");
 
-router.use(userExist);
+//router.use(userExist);
 
 router.post("/teacher", async ({ body }, res) => {
   const registration = new Registration(body);

@@ -26,9 +26,13 @@ class Teacher extends User {
   }
 
   async isExist() {
-    //const { email } = this;
-    // const isExist = await TeacherQuery.findOne({ email });
-    // if (isExist) throw new CError("User already registered.", 400);
+    const { email } = this;
+    const isExist = await TeacherQuery.findOne({ email });
+    if (isExist) {
+      return isExist;
+    } else {
+      return false;
+    }
   }
   async getAvaiableTime(date) {
     const takenLessons = await TimeTable.find({
