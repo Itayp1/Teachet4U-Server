@@ -1,6 +1,8 @@
 /* eslint-disable no-undef */
-const dotenv = require("dotenv");
-dotenv.config();
+if (process.env.env == "dev") {
+  const dotenv = require("dotenv");
+  dotenv.config();
+}
 
 module.exports = {
   BASE_API: process.env.BASE_API,
