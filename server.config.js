@@ -5,7 +5,7 @@ if (process.env.ENV == "development") {
 
 module.exports = {
   BASE_API: process.env.BASE_API,
-  PORT: process.env.PORT,
+  PORT: process.env.PORT || 3000,
   MONGO_CONNECTION_STRING: process.env.MONGO_CONNECTION_STRING,
   SMTP_USER: process.env.SMTP_USER,
   SMTP_PASS: process.SMTP_PASS,

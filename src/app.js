@@ -6,7 +6,7 @@ const express = require("express"),
   conf = require("../server.config");
 const startServer = async () => {
   await loaders(app);
-  app.listen(3000, err => {
+  app.listen(conf.PORT, err => {
     if (err) {
       Logger.error(err);
       process.exit(1);
