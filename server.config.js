@@ -1,7 +1,6 @@
 /* eslint-disable no-undef */
-if (process.env.env == "dev") {
-  const dotenv = require("dotenv");
-  dotenv.config();
+if (process.env.ENV == "development") {
+  require("dotenv").config();
 }
 
 module.exports = {
