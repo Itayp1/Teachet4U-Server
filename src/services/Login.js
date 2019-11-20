@@ -1,15 +1,16 @@
 const axios = require("axios"),
   jwt = require("jsonwebtoken"),
-  CERROR = require("../services/CustomError");
+  CERROR = require("../services/CustomError"),
+  config = require("../../server.config");
 module.exports = class Login {
   constructor(Platform, token, access_token) {
     this.Platform = Platform;
     this.token = token;
     this.access_token = access_token;
     if (Platform == "facebook") {
-      axios.defaults.baseURL = `https://graph.facebook.com/debug_token?input_token=${token}&access_token=${access_token}`;
+      axios.defaults.baseURL = `${config.OAUTH_FACEBOOK}${token}&access_token=${access_token}`;
     } else if (Platform == "google") {
-      axios.defaults.baseURL = `https://www.googleapis.com/oauth2/v1/tokeninfo?access_token=${access_token}`;
+      axios.defaults.baseURL = config.OAUTH_GOOGLE + access_token;
     } else {
       throw new CERROR("invalid platform", 400);
     }

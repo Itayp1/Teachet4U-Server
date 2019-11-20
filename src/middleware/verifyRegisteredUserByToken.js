@@ -2,14 +2,15 @@ const VerifyToken = require("../services/Login"),
   redis = require("redis"),
   bluebird = require("bluebird"),
   Student = require("../services/Student"),
-  Teacher = require("../services/Teacher");
+  Teacher = require("../services/Teacher"),
+  config = require("../../server.config");
 
 bluebird.promisifyAll(redis.RedisClient.prototype);
 bluebird.promisifyAll(redis.Multi.prototype);
 
 const client = redis.createClient(
-  13019,
-  "redis-13019.c90.us-east-1-3.ec2.cloud.redislabs.com",
+  config.REDIS_PORT,
+  config.REDIS_CONNECTION_STRING,
   { password: "teacher4u" }
 );
 client.on("connect", function() {
@@ -23,9 +24,7 @@ module.exports = async (req, res, next) => {
     res.locals.jwt = JSON.parse(existCache);
     return next();
   }
-  console.log("not in chace");
   console.log(existCache);
-  //console.log(access_token);
 
   const verifyToken = new VerifyToken(platform, token, access_token);
   //verify the token
