@@ -1,8 +1,7 @@
 const VerifyToken = require("../services/Login"),
   client = require("../loaders/redis"),
   Student = require("../services/Student"),
-  Teacher = require("../services/Teacher"),
-  config = require("../../server.config");
+  Teacher = require("../services/Teacher");
 
 require("express-async-errors");
 module.exports = async (req, res, next) => {

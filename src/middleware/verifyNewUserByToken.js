@@ -1,12 +1,12 @@
 const VerifyToken = require("../services/Login"),
   Student = require("../services/Student"),
   Teacher = require("../services/Teacher"),
-  config = require("../../server.config");
+  CERROR = require("../services/CustomError");
 
 require("express-async-errors");
 module.exports = async (req, res, next) => {
   const { platform, token, access_token } = req.headers;
-  if (!platform || !token) throw new Error("missing token");
+  if (!platform || !token) throw new CERROR("missing token", 401);
 
   //if (!access_token) throw new Error("missing acess token");
 

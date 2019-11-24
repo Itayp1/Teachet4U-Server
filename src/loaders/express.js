@@ -6,6 +6,7 @@ const bodyParser = require("body-parser"),
   morgan = require("morgan"),
   helmet = require("helmet"),
   compression = require("compression"),
+  Logger = require("./looger"),
   isProduction = process.env.ENV === "production";
 require("express-async-errors");
 
@@ -46,6 +47,7 @@ module.exports = app => {
   // catch exeptions from the express handler
 
   app.use((err, req, res, next) => {
+    Logger.error(`message:${err.message || err} stack:${err.stack || null}`);
     // Any request to this server will get here, and will send an HTTP
     const status = err.status || 500;
 
