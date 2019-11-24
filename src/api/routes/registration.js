@@ -1,18 +1,16 @@
 const router = require("express").Router(),
-  userExist = require("../../middleware/userExist"),
+  userExist = require("../../middleware/verifyNewUserByToken"),
   Registration = require("../../services/Registration");
 
 require("express-async-errors");
 
-//router.use(userExist);
-
-router.post("/teacher", async ({ body }, res) => {
+router.post("/teacher", userExist, async ({ body }, res) => {
   const registration = new Registration(body);
   const response = await registration.registerAsTeacher();
   res.send(response);
 });
 
-router.post("/student", async ({ body }, res) => {
+router.post("/student", userExist, async ({ body }, res) => {
   const registration = new Registration(body);
   const response = await registration.registerAsStudent();
   res.send(response);

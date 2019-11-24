@@ -15,5 +15,6 @@ module.exports = {
   REDIS_PORT: process.env.REDIS_PORT,
   REDIS_PASSWORD: process.env.REDIS_PASSWORD,
   OAUTH_FACEBOOK: process.env.OAUTH_FACEBOOK,
-  OAUTH_GOOGLE: process.env.OAUTH_GOOGLE
+  OAUTH_GOOGLE: process.env.OAUTH_GOOGLE,
+  CLIENT_ID: process.env.CLIENT_ID
 };

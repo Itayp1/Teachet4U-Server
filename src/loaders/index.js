@@ -2,10 +2,14 @@ const models = require("../models")();
 const mongooseLoader = require("./mongoose");
 const expressLoader = require("./express");
 const Logger = require("./looger");
+const redis = require("./redis");
 require("../subscribers/send_email_on_registration");
 module.exports = async app => {
   await mongooseLoader();
-  Logger.info("✌️ DB loaded and connected!");
+  Logger.info("✌️ MONGO DB loaded and connected!");
+
+  await redis;
+  Logger.info("✌️ Redis loaded and connected!");
 
   await models;
   Logger.info("✌️ DB models loaded!");

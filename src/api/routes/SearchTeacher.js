@@ -1,9 +1,10 @@
 const router = require("express").Router(),
-  SearchTeacher = require("../../services/SearchTeacher");
+  SearchTeacher = require("../../services/SearchTeacher"),
+  verifyRegisteredUserByToken = require("../../middleware/verifyRegisteredUserByToken");
 
 require("express-async-errors");
 
-router.get("/", async (req, res) => {
+router.get("/", verifyRegisteredUserByToken, async (req, res) => {
   const { city, course } = req.query;
   const searchTeacher = new SearchTeacher(city, course);
   const result = await searchTeacher.getListOfTeachers();

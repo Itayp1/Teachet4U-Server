@@ -14,7 +14,7 @@ module.exports = class Student extends User {
   async isExist() {
     const { email } = this;
     const isExist = await StudentQuery.findOne({ email });
-    if (isExist) throw new CError("User already registered.", 400);
+    if (isExist) return isExist;
   }
 
   async updateInfo(details) {
