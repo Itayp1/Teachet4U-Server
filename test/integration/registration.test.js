@@ -1,15 +1,20 @@
-const app = require("../../src/server");
+const models = require("../../src/models")();
+const mongooseLoader = require("../../src/loaders/mongoose");
+const app = require("../../src/loaders/expresstest");
 const supertest = require("supertest");
-
-test("GET /", done => {
-  supertest(app)
-    .get("/")
-    .expect(200)
-    .end(done);
+process.env.ENV === "test";
+let start;
+beforeEach(async () => {
+  console.log("before");
 });
-test("GET /", done => {
+
+test("should return 200 health check", async () => {
   supertest(app)
-    .get("/")
-    .expect(200)
-    .end(done);
+    .get("/health")
+    .expect(200);
+});
+test("should return 220 health check", async () => {
+  await supertest(app)
+    .post("/api/registration/student")
+    .expect(401);
 });
