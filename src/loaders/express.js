@@ -24,7 +24,7 @@ module.exports = app => {
   });
 
   // Enable Cross Origin Resource Sharing to all origins by default
-  app.use(cors());
+  //app.use(cors());
   // Middleware that transforms the raw string of req.body into json
   app.use(bodyParser.json());
   // parse application/x-www-form-urlencoded
@@ -43,7 +43,6 @@ module.exports = app => {
     console.log("callerr");
     next(err);
   });
-  console.log("in app.use");
   // catch exeptions from the express handler
 
   app.use((err, req, res, next) => {

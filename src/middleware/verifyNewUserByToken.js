@@ -25,7 +25,7 @@ module.exports = async (req, res, next) => {
   const studentExist = await student.isExist();
 
   if (teacherExist || studentExist) {
-    next(new Error("user  exist"));
+    next(new CERROR("user  exist", 400));
   }
 
   //set the payload in the res varibale

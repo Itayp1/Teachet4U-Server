@@ -18,12 +18,10 @@ const startServer = async () => {
         #################################################
       `);
   });
-  return app;
 };
 
-const server = startServer();
+startServer();
 
-module.exports = server;
 // src
 // │   app.js          # App entry point
 // └───api             # Express route controllers for all the endpoints of the app

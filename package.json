@@ -7,6 +7,12 @@
     "start": "nodemon src/app.js",
     "test": "jest --watchAll --verbose"
   },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -31,11 +37,11 @@
     "nodemailer": "^6.3.1",
     "redis": "^2.8.0",
     "sendinblue-api": "^1.0.8",
-    "supertest": "^4.0.2",
     "winston": "^3.2.1"
   },
   "devDependencies": {
+    "eslint": "^6.6.0",
     "jest": "^24.9.0",
-    "eslint": "^6.6.0"
+    "supertest": "^4.0.2"
   }
 }
