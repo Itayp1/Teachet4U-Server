@@ -1,12 +1,13 @@
 const VerifyToken = require("../services/Login"),
   client = require("../loaders/redis"),
   Student = require("../services/Student"),
+  CERROR = require("../services/CustomError"),
   Teacher = require("../services/Teacher");
 
 require("express-async-errors");
 module.exports = async (req, res, next) => {
   const { platform, token, access_token } = req.headers;
-  if (!platform || !token) throw new Error("missing token");
+  if (!platform || !token) next(new CERROR("missing token", 401));
   const existCache = await client.getAsync(JSON.stringify(token));
   if (existCache) {
     res.locals.jwt = JSON.parse(existCache);

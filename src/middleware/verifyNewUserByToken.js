@@ -6,7 +6,7 @@ const VerifyToken = require("../services/Login"),
 require("express-async-errors");
 module.exports = async (req, res, next) => {
   const { platform, token, access_token } = req.headers;
-  if (!platform || !token) throw new CERROR("missing token", 401);
+  if (!platform || !token) next(new CERROR("missing token", 401));
 
   //if (!access_token) throw new Error("missing acess token");
 
@@ -29,6 +29,7 @@ module.exports = async (req, res, next) => {
   }
 
   //set the payload in the res varibale
+  // eslint-disable-next-line require-atomic-updates
   req.body.email = encodedjwt.email;
 
   next();

@@ -24,7 +24,7 @@ module.exports = app => {
   });
 
   // Enable Cross Origin Resource Sharing to all origins by default
-  //app.use(cors());
+  app.use(cors());
   // Middleware that transforms the raw string of req.body into json
   app.use(bodyParser.json());
   // parse application/x-www-form-urlencoded
@@ -45,8 +45,8 @@ module.exports = app => {
   });
   // catch exeptions from the express handler
 
-  app.use((err, req, res, next) => {
-    Logger.error(`message:${err.message || err} stack:${err.stack || null}`);
+  app.use((err, req, res) => {
+    Logger.error(`message:${err.message || err}`);
     // Any request to this server will get here, and will send an HTTP
     const status = err.status || 500;
 

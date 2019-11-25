@@ -1,20 +1,15 @@
-/* eslint-disable no-undef */
-const request = require("supertest");
-server = require("../../src/loaders/express-test");
+const app = require("../../src/server");
+const supertest = require("supertest");
 
-describe("/api/registration", () => {
-  // beforeEach(async () => {
-  //   server = require("../../src/loaders/express-test");
-  // });
-  // afterEach(async () => {
-  //   server.close();
-  // });
-
-  describe("POST /teacher", () => {
-    it("should create new user", async () => {
-      request(server).get("/health");
-      // .set("x-auth-token", token)
-      expect(res).toBe(401);
-    });
-  });
+test("GET /", done => {
+  supertest(app)
+    .get("/")
+    .expect(200)
+    .end(done);
+});
+test("GET /", done => {
+  supertest(app)
+    .get("/")
+    .expect(200)
+    .end(done);
 });
