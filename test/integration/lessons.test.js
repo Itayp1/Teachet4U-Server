@@ -1,16 +1,20 @@
 /* eslint-disable no-undef */
-const expect = require("chai").expect;
+const mongooseLoader = require("./mongoose"),
+  mongoose = require("mongoose"),
+  timeTable = mongoose.model("TimeTable"),
+  expect = require("chai").expect;
 
 const { axiosGoogleTokenStudent } = require("./axios");
 
 beforeAll(async () => {
-  // await mongooseLoader();
-  // await Student.deleteMany({});
-  // await Teacher.deleteMany({});
+  await mongooseLoader();
 });
 
 describe("Lessons /api/lessons/", () => {
   describe("/POST appointmentLesson", () => {
+    beforeAll(async () => {
+      await timeTable.deleteMany({});
+    });
     it("should appointment Lesson", async () => {
       const res = await axiosGoogleTokenStudent.post(
         "/api/lessons/appointmentLesson",
