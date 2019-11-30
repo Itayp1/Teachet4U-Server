@@ -31,7 +31,7 @@ module.exports = async (req, res, next) => {
   if (teacherExist) {
     encodedjwt.profile = "teacher";
   } else if (studentExist) {
-    encodedjwt.profile = "teachstudenter";
+    encodedjwt.profile = "student";
   } else {
     next(new Error("user not exist"));
   }
