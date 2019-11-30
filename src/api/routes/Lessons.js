@@ -40,6 +40,6 @@ router.get("/timetable", async (req, res) => {
   const timeTable = new Lesson(email);
 
   const result = await timeTable.getTimeTable();
-  res.json(result);
+  res.json({ timeTable: result });
 });
 module.exports = router;

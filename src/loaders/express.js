@@ -45,11 +45,13 @@ module.exports = app => {
   });
   // catch exeptions from the express handler
 
-  app.use((err, req, res) => {
+  // eslint-disable-next-line no-unused-vars
+  app.use((err, req, res, next) => {
     Logger.error(`message:${err.message || err}`);
     // Any request to this server will get here, and will send an HTTP
     const status = err.status || 500;
 
+    console.log(err.message);
     res.status(status).json({ status: err.message });
   });
 };
