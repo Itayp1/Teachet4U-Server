@@ -3,11 +3,11 @@ const router = require("express").Router(),
   REGISTRATION = require("./routes/registration"),
   SearchTeacher = require("./routes/SearchTeacher"),
   Lessons = require("./routes/Lessons"),
-  UpdateInfo = require("./routes/UpdateInfo");
+  UpdateInfo = require("./routes/Information");
 router.use("/login", LOGIN);
 router.use("/registration", REGISTRATION);
 router.use("/searchTeacher", SearchTeacher);
 router.use("/lessons", Lessons);
-router.use("/updateInfo", UpdateInfo);
+router.use("/information", UpdateInfo);
 
 module.exports = router;
