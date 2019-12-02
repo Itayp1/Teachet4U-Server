@@ -5,7 +5,7 @@ const router = require("express").Router(),
 
 require("express-async-errors");
 
-router.put("/teacher", async ({ body }, res) => {
+router.put("/update/teacher", async ({ body }, res) => {
   // prettier-ignore
   const {email} = body;
   const teacher = new Teacher(email);
@@ -18,7 +18,7 @@ router.put("/student", async ({ body }, res) => {
   res.json(result);
 });
 
-router.get("/teacher", verifyRegisteredUserByToken, async ({ query }, res) => {
+router.get("/teacher", async ({ query }, res) => {
   // prettier-ignore
   const {email} = query;
   const teacher = new Teacher(email);

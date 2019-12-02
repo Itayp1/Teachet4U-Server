@@ -5,20 +5,16 @@ const router = require("express").Router(),
 
 require("express-async-errors");
 
-router.get(
-  "/getavaiabletime",
-  verifyRegisteredUserByToken,
-  async (req, res) => {
-    const { email, date } = req.query;
-    const getAvaiableTime = new GetAvaiableTime(email);
-    const result = await getAvaiableTime.getAvaiableTime(date);
-    res.json(result);
-  }
-);
+router.get("/getavaiabletime", async (req, res) => {
+  const { email, date } = req.query;
+  const getAvaiableTime = new GetAvaiableTime(email);
+  const result = await getAvaiableTime.getAvaiableTime(date);
+  res.json(result);
+});
 
 router.post(
   "/appointmentLesson",
-  verifyRegisteredUserByToken,
+
   async (req, res) => {
     const { teacherEmail, studentEmail, cource, date, time, status } = req.body;
     const lesson = new Lesson(

@@ -27,6 +27,7 @@ class Teacher extends User {
 
   async isExist() {
     const { email } = this;
+    console.log(email);
     const isExist = await TeacherQuery.findOne({ email });
     if (isExist) {
       return isExist;
@@ -60,6 +61,7 @@ class Teacher extends User {
     return result;
   }
   async getInfo() {
+    console.log;
     const result = await TeacherQuery.findOne({ email: this.email });
     return result;
   }

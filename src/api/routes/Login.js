@@ -1,7 +1,7 @@
 const router = require("express").Router(),
   verifyRegisteredUserByToken = require("../../middleware/verifyRegisteredUserByToken");
 
-router.get("/", verifyRegisteredUserByToken, (req, res) => {
+router.get("/", (req, res) => {
   const { profile } = res.locals;
   res.send({ profile });
 });

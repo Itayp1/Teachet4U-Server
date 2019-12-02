@@ -16,7 +16,7 @@ module.exports = async (req, res, next) => {
   //decode the token and get the decoded payload
 
   const encodedjwt = await verifyToken.decode();
-  await verifyToken.verifygoogle();
+  await verifyToken.verify();
 
   const teacher = new Teacher(encodedjwt.email, null, null);
   const teacherExist = await teacher.isExist();
@@ -25,7 +25,7 @@ module.exports = async (req, res, next) => {
   const studentExist = await student.isExist();
 
   if (teacherExist || studentExist) {
-    next(new CERROR("user  exist", 400));
+    next(new CERROR("user  exist", 409));
   }
 
   //set the payload in the res varibale
