@@ -1,11 +1,11 @@
 const router = require("express").Router(),
   GetAvaiableTime = require("../../services/Teacher"),
-  verifyRegisteredUserByToken = require("../../middleware/verifyRegisteredUserByToken"),
+  ValidateJwt = require("../../middleware/ValidateJwt"),
   Lesson = require("../../services/Lessons");
 
 require("express-async-errors");
 
-router.get("/getavaiabletime", async (req, res) => {
+router.get("/getavaiabletime", ValidateJwt, async (req, res) => {
   const { email, date } = req.query;
   const getAvaiableTime = new GetAvaiableTime(email);
   const result = await getAvaiableTime.getAvaiableTime(date);

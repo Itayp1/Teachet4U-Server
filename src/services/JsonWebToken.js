@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const jwt = require("jsonwebtoken"),
   fs = require("fs"),
   privateKey = fs.readFileSync(__dirname + "/../security/private.key"),
@@ -15,10 +16,8 @@ module.exports = class JsonWebToken {
     return token;
   }
 
-  VerifyJwt() {
-    jwt.verify(token, cert, function(err, decoded) {
-      if (err) throw err;
-      return decoded;
-    });
+  verifyJwt() {
+    const response = jwt.verify(this.obj, cert);
+    return true;
   }
 };
