@@ -1,8 +1,7 @@
 const router = require("express").Router(),
-  verifyRegisteredUserByToken = require("../../middleware/verifyRegisteredUserByToken");
+  verifyUserByToken = require("../../middleware/verifyUserByToken");
 
-router.get("/", (req, res) => {
-  const { profile } = res.locals;
-  res.send({ profile });
+router.get("/", verifyUserByToken, (req, res) => {
+  return res.json({ status: "Registration" });
 });
 module.exports = router;

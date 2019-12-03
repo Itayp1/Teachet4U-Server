@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-if (process.env.ENV == "development" || process.env.ENV == "test") {
+if (process.env.ENV != "development" || process.env.ENV != "test") {
   require("dotenv").config();
 }
 

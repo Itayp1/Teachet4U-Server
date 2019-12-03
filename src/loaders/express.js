@@ -51,7 +51,7 @@ module.exports = app => {
     // Any request to this server will get here, and will send an HTTP
     const status = err.status || 500;
 
-    console.log(err.message);
+    console.log(err);
     res.status(status).json({ status: err.message });
   });
 };
