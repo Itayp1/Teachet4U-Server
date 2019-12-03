@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "nodem src/app.js",
+    "start": "node src/app.js",
     "test": "jest --watchAll --verbose"
   },
   "jest": {
