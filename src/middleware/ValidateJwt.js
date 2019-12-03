@@ -14,8 +14,9 @@ module.exports = async (req, res, next) => {
   const jwtVerifucation = new JsonWebToken(authorization);
   try {
     const isValid = jwtVerifucation.verifyJwt();
+    res.locals.jwt = isValid;
     next();
   } catch (error) {
-    next(CERROR(error, 401));
+    next(new CERROR(error, 401));
   }
 };

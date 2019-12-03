@@ -18,6 +18,6 @@ module.exports = class JsonWebToken {
 
   verifyJwt() {
     const response = jwt.verify(this.obj, cert);
-    return true;
+    return response;
   }
 };
