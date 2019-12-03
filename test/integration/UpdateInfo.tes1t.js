@@ -1,21 +1,16 @@
 /* eslint-disable no-undef */
-const mongooseLoader = require("./mongoose"),
-  expect = require("chai").expect;
+const expect = require("chai").expect;
 
 const { axiosGoogleTokenStudent } = require("./axios");
 
-beforeAll(async () => {
-  await mongooseLoader();
-});
-
-describe("Lessons /api/lessons/", () => {
-  describe("/POST appointmentLesson", () => {
+describe("Update Information /api/UpdateInfo", () => {
+  describe("/GET updateInfo", () => {
     it("should appointment Lesson", async () => {
       const res = await axiosGoogleTokenStudent.post(
         "/api/lessons/appointmentLesson",
         {
-          teacherEmail: "peretz.itay@gmail.com",
-          studentEmail: "inon@gmail.com",
+          teacherEmail: "peretz.itay1@cts.info.org.il",
+          studentEmail: "peretz.itay@gmail.com",
           cource: "חשבון",
           date: "14/11/2019",
           time: "15"
@@ -31,7 +26,7 @@ describe("Lessons /api/lessons/", () => {
   describe("/GET getavaiabletime", () => {
     it("should return avaiable time", async () => {
       const res = await axiosGoogleTokenStudent.get(
-        "/api/lessons/getavaiabletime?email=peretz.itay@gmail.com&date=14-11-2019"
+        "/api/lessons/getavaiabletime?email=peretz.itay1@cts.info.org.il&date=14-11-2019"
       );
 
       expect(res.status).to.equal(200);

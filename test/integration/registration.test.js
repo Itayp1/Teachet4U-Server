@@ -9,8 +9,8 @@ const { axiosGoogleTokenStudent, axiosGoogleTokenTeacher } = require("./axios");
 
 beforeAll(async () => {
   await mongooseLoader();
-  await Student.deleteMany({});
-  await Teacher.deleteMany({});
+  await Student.deleteMany({ email: "peretz.itay@gmail.com" });
+  await Teacher.deleteMany({ email: "peretz.itay1@cts.info.org.il" });
 });
 
 describe("Registration", () => {
@@ -38,7 +38,7 @@ describe("Registration", () => {
       "/api/registration/teacher",
       {
         age: 28,
-        email: "peretz.itay@info.cts.org.il",
+        email: "peretz.itay1@cts.info.org.il",
         lastname: "peretz",
         name: "itay",
         gender: "Male",
