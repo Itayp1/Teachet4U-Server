@@ -23,6 +23,7 @@ module.exports = class Login {
       if (result.expires_in <= 0) throw new Error("Expire Token", 401);
       return result.data;
     } catch (error) {
+      console.log(error.data);
       throw new CERROR("Expire Token", 401);
     }
   }
