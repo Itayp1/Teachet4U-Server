@@ -15,8 +15,7 @@ module.exports = async (req, res, next) => {
   //const result = await verifyToken.verify();
   //decode the token and get the decoded payload
 
-  const encodedjwt = await verifyToken.decode();
-  await verifyToken.verify();
+  const encodedjwt = await verifyToken.verify();
 
   const teacher = new Teacher(encodedjwt.email, null, null);
   const teacherExist = await teacher.isExist();

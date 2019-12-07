@@ -12,9 +12,9 @@ module.exports = async (req, res, next) => {
   if (!platform || !access_token) next(new CERROR("missing token", 401));
 
   const verifyToken = new VerifyToken(platform, null, access_token);
-
+  console.log(verifyToken);
   const { email } = await verifyToken.verify();
-
+  console.log(email);
   const teacher = new Teacher(email, null, null);
   const teacherExist = await teacher.isExist();
   if (teacherExist) {
