@@ -6,7 +6,7 @@ const VerifyToken = require("../services/Login"),
 require("express-async-errors");
 module.exports = async (req, res, next) => {
   const { platform, token, access_token } = req.headers;
-  if (!platform || !token) next(new CERROR("missing token", 401));
+  if (!platform || !access_token) next(new CERROR("missing token", 401));
 
   //if (!access_token) throw new Error("missing acess token");
 

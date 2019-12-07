@@ -3,14 +3,14 @@ const axios = require("axios"),
   CERROR = require("./CustomError"),
   config = require("../../server.config");
 module.exports = class Login {
-  constructor(Platform, token, access_token) {
-    this.Platform = Platform;
+  constructor(platform, token, access_token) {
+    this.platform = platform;
     this.token = token;
     this.access_token = access_token;
     this.decodedJwt;
-    if (Platform == "facebook") {
+    if (platform == "facebook") {
       axios.defaults.baseURL = `${config.OAUTH_FACEBOOK}${token}&access_token=${access_token}`;
-    } else if (Platform == "google") {
+    } else if (platform == "google") {
       axios.defaults.baseURL = config.OAUTH_GOOGLE + access_token;
     } else {
       throw new CERROR("invalid platform", 400);
@@ -19,7 +19,7 @@ module.exports = class Login {
 
   async verify() {
     try {
-      console.log(axios.defaults.baseURL)
+      console.log(axios.defaults.baseURL);
       const result = await axios.get();
       if (result.expires_in <= 0) throw new Error("Expire Token", 401);
       return result.data;
