@@ -22,7 +22,11 @@ module.exports = app => {
       .send("UP")
       .end();
   });
-
+  app.use((req, res, next) => {
+    console.log(req.body);
+    console.log(req.headers);
+    next();
+  });
   // Enable Cross Origin Resource Sharing to all origins by default
   app.use(cors());
   // Middleware that transforms the raw string of req.body into json
