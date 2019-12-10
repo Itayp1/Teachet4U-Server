@@ -1,5 +1,5 @@
 const router = require("express").Router(),
-  verifyRegisteredUserByToken = require("../../middleware/verifyRegisteredUserByToken"),
+  ValidateJwt = require("../../middleware/ValidateJwt"),
   Teacher = require("../../services/Teacher"),
   Student = require("../../services/Student");
 
@@ -25,8 +25,8 @@ router.get("/teacher", async ({ query }, res) => {
   const result = await teacher.getInfo();
   res.json(result);
 });
-router.get("/student", async ({ query }, res) => {
-  const { email } = query;
+router.get("/student", ValidateJwt, async ({ query }, res) => {
+  const { email } = res.locals.jwt; // \\ query;
   const student = new Student(email);
   const result = await student.getInfo();
   res.json(result);
