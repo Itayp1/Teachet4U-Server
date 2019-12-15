@@ -12,9 +12,9 @@ router.put("/update/teacher", async ({ body }, res) => {
   const result = await teacher.updateInfo(body);
   res.json(result);
 });
-router.put("/student", async ({ body }, res) => {
-  const student = new Student(body);
-  const result = await student.updateInfo();
+router.put("/student", ValidateJwt, async ({ body }, res) => {
+  const student = new Student(res.locals.jwt.email);
+  const result = await student.updateInfo(body);
   res.json(result);
 });
 

@@ -18,18 +18,25 @@ module.exports = class Student extends User {
   }
 
   async updateInfo(details) {
-    let obj = {};
-    for (let key in details) {
-      key != "email" ? (obj[key] = details[key]) : null;
-    }
-    let result = await StudentQuery.findOneAndUpdate(
-      { email: this.email },
-      {
-        $set: obj
+    try {
+      let obj = {};
+      for (let key in details) {
+        key != "email" ? (obj[key] = details[key]) : null;
       }
-    );
-    _.assign(result, obj);
-    return result;
+      let result = await StudentQuery.findOneAndUpdate(
+        { email: this.email },
+        {
+          $set: obj
+        }
+      );
+      _.assign(result, obj);
+
+      return result;
+    } catch (error) {
+      console.log("error");
+
+      console.log(error);
+    }
   }
 
   async getInfo() {

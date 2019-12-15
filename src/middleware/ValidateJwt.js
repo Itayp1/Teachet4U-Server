@@ -15,6 +15,8 @@ module.exports = async (req, res, next) => {
   try {
     const isValid = jwtVerifucation.verifyJwt();
     res.locals.jwt = isValid;
+
+    req.body.email = isValid.email;
     next();
   } catch (error) {
     next(new CERROR(error, 401));
