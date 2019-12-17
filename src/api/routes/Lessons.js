@@ -16,10 +16,21 @@ router.post(
   "/appointmentLesson",
 
   async (req, res) => {
-    const { teacherEmail, studentEmail, cource, date, time, status } = req.body;
+    const {
+      teacherEmail,
+      teacherName,
+      studentEmail,
+      studentName,
+      cource,
+      date,
+      time,
+      status
+    } = req.body;
     const lesson = new Lesson(
       teacherEmail,
+      teacherName,
       studentEmail,
+      studentName,
       cource,
       date,
       time,
@@ -31,7 +42,7 @@ router.post(
 );
 
 router.get("/timetable", async (req, res) => {
-  const { email } = req.query;
+  const { email } = req.body;
 
   const timeTable = new Lesson(email);
 

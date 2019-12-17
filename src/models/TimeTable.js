@@ -5,7 +5,15 @@ const TimeTableSchema = new mongoose.Schema({
     type: String,
     required: true
   },
+  teacherName: {
+    type: String,
+    required: true
+  },
   studentEmail: {
+    type: String,
+    required: true
+  },
+  studentName: {
     type: String,
     required: true
   },

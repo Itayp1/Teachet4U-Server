@@ -2,9 +2,20 @@ const mongoose = require("mongoose"),
   TimeTable = mongoose.model("TimeTable");
 
 module.exports = class Lessons {
-  constructor(teacherEmail, studentEmail, cource, date, time, status) {
+  constructor(
+    teacherEmail,
+    teacherName,
+    studentEmail,
+    studentName,
+    cource,
+    date,
+    time,
+    status
+  ) {
     this.teacherEmail = teacherEmail;
+    this.teacherName = teacherName;
     this.studentEmail = studentEmail;
+    this.studentName = studentName;
     this.cource = cource;
     this.date = date;
     this.time = time;
