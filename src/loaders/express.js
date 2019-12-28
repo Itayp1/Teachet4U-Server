@@ -29,9 +29,9 @@ module.exports = app => {
   app.use(bodyParser.json());
   // parse application/x-www-form-urlencoded
   app.use(bodyParser.urlencoded({ extended: false }));
-  app.use((req, res, next) => {
-    console.log(req.body);
-    console.log(req.headers);
+  app.use(({ body, headers }, res, next) => {
+    console.log(body);
+    console.log(headers);
     next();
   });
   //register other security protections

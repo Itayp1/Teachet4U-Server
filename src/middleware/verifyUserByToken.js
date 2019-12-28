@@ -26,6 +26,7 @@ module.exports = async (req, res, next) => {
 
   const studentExist = await student.isExist();
   if (studentExist) {
+    console.log("student exist");
     const jsonWebToken = new JsonWebToken(studentExist);
     const jwt = jsonWebToken.createJwt();
     return res.json({ jwt, profile: "student" });

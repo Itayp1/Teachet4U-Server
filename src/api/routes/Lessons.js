@@ -41,12 +41,12 @@ router.post(
   }
 );
 
-router.get("/timetable", async (req, res) => {
+router.get("/timetable", ValidateJwt, async (req, res) => {
   const { email } = req.body;
-
+  const { profile } = res.locals.jwt;
   const timeTable = new Lesson(email);
 
-  const result = await timeTable.getTimeTable();
+  let result = await timeTable.getTimeTable(email, profile);
   res.json({ timeTable: result });
 });
 module.exports = router;

@@ -10,7 +10,8 @@ module.exports = class Lessons {
     cource,
     date,
     time,
-    status
+    status,
+    name
   ) {
     this.teacherEmail = teacherEmail;
     this.teacherName = teacherName;
@@ -20,6 +21,7 @@ module.exports = class Lessons {
     this.date = date;
     this.time = time;
     this.status = status;
+    this.name = name;
   }
 
   async appointmentLesson() {
@@ -27,8 +29,35 @@ module.exports = class Lessons {
     const result = await timeTable.save();
     return result;
   }
-  async getTimeTable(email) {
-    const timeTable = await TimeTable.find({ email });
-    return timeTable;
+  async getTimeTable(email, profile) {
+    console.log(email);
+    if (profile == "student") {
+      let timeTable = await TimeTable.find({ studentEmail: email });
+      const mapResult = timeTable.map(tmp => {
+        const obj = {};
+        (obj.status = tmp.status),
+          (obj.email = tmp.teacherEmail),
+          (obj.name = tmp.teacherName),
+          (obj.date = tmp.date),
+          (obj.time = tmp.time);
+
+        return obj;
+      });
+      return mapResult;
+    } else if (profile == "teacher") {
+      let timeTable = await TimeTable.find({ teacherEmail: email });
+      const mapResult = timeTable.map(tmp => {
+        const obj = {};
+        (obj.status = tmp.status),
+          (obj.email = tmp.teacherEmail),
+          (obj.name = tmp.teacherName),
+          (obj.date = tmp.date),
+          (obj.time = tmp.time);
+
+        return obj;
+      });
+      return mapResult;
+    }
+    throw new Error("unknoun Profile");
   }
 };
