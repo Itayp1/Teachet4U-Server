@@ -1,7 +1,5 @@
 const router = require("express").Router(),
-  SearchTeacher = require("../../services/SearchTeacher"),
-  verifyRegisteredUserByToken = require("../../middleware/verifyRegisteredUserByToken");
-
+  SearchTeacher = require("../../services/SearchTeacher");
 require("express-async-errors");
 
 router.get("/", async (req, res) => {

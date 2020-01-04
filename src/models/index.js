@@ -3,4 +3,5 @@ module.exports = () => {
   require("./Chat");
   require("./Student");
   require("./TimeTable");
+  require("./Rating");
 };
