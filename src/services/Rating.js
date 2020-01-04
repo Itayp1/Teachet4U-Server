@@ -18,7 +18,7 @@ module.exports = class Rating {
 
   async getReviews() {
     const listofReviews = await RatingDb.find({
-      teacherEmail: "peretz.itay1@cts.info.org.il"
+      teacherEmail: this.teacherEmail
     });
 
     return listofReviews;
