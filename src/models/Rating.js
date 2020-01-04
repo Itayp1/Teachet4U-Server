@@ -18,7 +18,8 @@ const RatingSchema = new mongoose.Schema({
     required: true
   },
   studentName: {
-    type: String
+    type: String,
+    required: true
   }
 });
 

@@ -1,12 +1,12 @@
 const mongoose = require("mongoose"),
   RatingDb = mongoose.model("Rating");
 module.exports = class Rating {
-  constructor(lessonId, rating, review, teacherEmail, studentName) {
+  constructor(teacherEmail, lessonId, rating, review, studentName) {
     this.lessonId = lessonId;
     this.rating = rating;
     this.review = review;
     this.teacherEmail = teacherEmail;
-    this.studentMail = studentName;
+    this.studentName = studentName;
   }
 
   async addReview() {
@@ -14,5 +14,13 @@ module.exports = class Rating {
     const response = await review.save();
     console.log(response);
     return true;
+  }
+
+  async getReviews() {
+    const listofReviews = await RatingDb.find({
+      teacherEmail: "peretz.itay1@cts.info.org.il"
+    });
+
+    return listofReviews;
   }
 };
