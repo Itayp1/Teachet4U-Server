@@ -14,18 +14,11 @@ router.get("/getavaiabletime", ValidateJwt, async (req, res) => {
 
 router.post(
   "/appointmentLesson",
+  ValidateJwt,
 
   async (req, res) => {
-    const {
-      teacherEmail,
-      teacherName,
-      studentEmail,
-      studentName,
-      cource,
-      date,
-      time,
-      status
-    } = req.body;
+    const { teacherEmail, teacherName, cource, date, time } = req.body;
+    const { email: studentEmail, name: studentName } = res.locals.jwt;
     const lesson = new Lesson(
       teacherEmail,
       teacherName,
@@ -34,7 +27,7 @@ router.post(
       cource,
       date,
       time,
-      status
+      "awaiting"
     );
     const result = await lesson.appointmentLesson();
     res.json(result);

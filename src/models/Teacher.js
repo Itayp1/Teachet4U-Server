@@ -61,7 +61,7 @@ const TeacherSchema = new mongoose.Schema({
     required: true
   },
   availablesDays: {
-    type: [String],
+    type: [Number],
     required: true,
     default: undefined
   },

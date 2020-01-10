@@ -35,15 +35,37 @@ class Teacher extends User {
       return false;
     }
   }
+
   async getAvaiableTime(date) {
-    const takenLessons = await TimeTable.find({
+    const { email } = this;
+    const { avaiablesHours, availablesDays } = await TeacherQuery.findOne({
+      email
+    });
+    console.log(availablesDays);
+    console.log(date);
+
+    console.log(new Date(date).getDay());
+    console.log(availablesDays[new Date(date).getDay()]);
+    if (!availablesDays[new Date(date).getDay()]) {
+      return [];
+    }
+
+    let takenLessons = await TimeTable.find({
       teacherEmail: this.email,
       date
     });
-    const avaiablesHours = takenLessons.map(obj => {
-      return obj.time;
-    });
-    return { avaiablesHours };
+    takenLessons = takenLessons.map(({ time }) => time);
+    console.log(takenLessons);
+
+    const avaiables = avaiablesHours.filter(
+      houer => !takenLessons.includes(houer)
+    );
+    console.log("avaiables");
+    console.log(avaiables);
+    // const avaiablesHours = takenLessons.map(obj => {
+    //   return obj.time;
+    // });
+    return { avaiables, availablesDays };
   }
 
   async updateInfo(details) {

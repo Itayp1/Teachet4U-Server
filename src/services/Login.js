@@ -19,7 +19,6 @@ module.exports = class Login {
 
   async verify() {
     try {
-      console.log(axios.defaults.baseURL);
       const result = await axios.get();
       if (result.expires_in <= 0) throw new Error("Expire Token", 401);
       return result.data;

@@ -26,7 +26,7 @@ const TimeTableSchema = new mongoose.Schema({
     required: true
   },
   time: {
-    type: String,
+    type: Number,
     required: true
   },
   status: {
