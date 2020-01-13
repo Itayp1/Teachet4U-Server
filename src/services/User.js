@@ -1,9 +1,8 @@
 module.exports = class User {
-  constructor(email, name, lastname, age, gender, city, phone, profile) {
+  constructor(email, fullnName, age, gender, city, phone, profile) {
     // prettier-ignore
     this.email = email,
-      this.lastname = lastname,
-      this.name = name,
+      this.fullnName = fullnName,
       this.age = age,
       this.gender = gender,
       this.city = city,

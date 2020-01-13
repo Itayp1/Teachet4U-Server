@@ -1,14 +1,14 @@
 const User = require("./User"),
   mongoose = require("mongoose"),
   StudentQuery = mongoose.model("Student"),
-  CError = require("../services/CustomError"),
+  // CError = require("../services/CustomError"),
   _ = require("lodash");
 mongoose.set("useFindAndModify", false);
 
 module.exports = class Student extends User {
-  constructor(email, name, lastname, age, gender, city, phone, profile) {
+  constructor(email, fullnName, age, gender, city, phone, profile) {
     // eslint-disable-next-line no-undef
-    super(email, name, lastname, age, gender, city, phone, profile);
+    super(email, fullnName, age, gender, city, phone, profile);
   }
 
   async isExist() {

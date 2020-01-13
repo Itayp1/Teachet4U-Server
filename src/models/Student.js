@@ -13,14 +13,11 @@ const StudentSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  lastname: {
+  fullnName: {
     type: String,
     required: true
   },
-  name: {
-    type: String,
-    required: true
-  },
+
   city: {
     type: String,
     required: true

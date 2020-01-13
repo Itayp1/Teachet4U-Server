@@ -14,14 +14,11 @@ const TeacherSchema = new mongoose.Schema({
     required: true,
     enum: ["Male", "Female"]
   },
-  lastname: {
+  fullnName: {
     type: String,
     required: true
   },
-  name: {
-    type: String,
-    required: true
-  },
+
   city: {
     type: String,
     required: true

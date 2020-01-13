@@ -7,9 +7,9 @@ mongoose.set("useFindAndModify", false);
 
 class Teacher extends User {
   // prettier-ignore
-  constructor(email, name, lastname, age, gender, city, phone, profile, pic, courses, studyCities, university, generalDescription, priceAtStudent, price, availablesDays, avaiablesHours, rating 
+  constructor(email, fullnName, age, gender, city, phone, profile, pic, courses, studyCities, university, generalDescription, priceAtStudent, price, availablesDays, avaiablesHours, rating 
   ) {
-    super(email, name, lastname, age, gender, city, phone, profile);
+    super(email, fullnName, age, gender, city, phone, profile);
      this.pic = pic,
       this.courses = courses,
       this.studyCities = studyCities,
