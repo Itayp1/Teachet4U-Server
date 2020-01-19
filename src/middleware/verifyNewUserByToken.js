@@ -32,5 +32,6 @@ module.exports = async (req, res, next) => {
   // eslint-disable-next-line require-atomic-updates
   req.body.email = encodedjwt.email;
   console.log("after verifyNewUserByToken");
+  console.log(req.body.email);
   next();
 };

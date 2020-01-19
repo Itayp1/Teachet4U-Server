@@ -12,9 +12,9 @@ const TeacherSchema = new mongoose.Schema({
   gender: {
     type: String,
     required: true,
-    enum: ["Male", "Female"]
+    enum: ["נקבה", "זכר"]
   },
-  fullnName: {
+  fullName: {
     type: String,
     required: true
   },
@@ -29,17 +29,15 @@ const TeacherSchema = new mongoose.Schema({
   },
   pic: {
     type: String,
-    required: true
+    required: false
   },
   courses: {
-    type: [],
-    required: true,
-    default: undefined
+    type: [String],
+    required: true
   },
   studyCities: {
-    type: [],
-    required: true,
-    default: undefined
+    type: [String],
+    required: true
   },
   university: {
     type: String,
@@ -58,18 +56,18 @@ const TeacherSchema = new mongoose.Schema({
     required: true
   },
   availablesDays: {
-    type: [Number],
+    type: [String],
     required: true,
     default: undefined
   },
   avaiablesHours: {
-    type: [Number],
+    type: [String],
     required: true,
     default: undefined
   },
   rating: {
     type: Number,
-    required: true
+    default: 0
   },
   profile: {
     type: String,

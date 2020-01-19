@@ -6,9 +6,8 @@ const router = require("express").Router(),
 
 require("express-async-errors");
 
-router.post("/teacher", userExist, async ({ body }, res) => {
+router.post("/teacher", verifyUserByToken, userExist, async ({ body }, res) => {
   console.log("inteacher");
-
   const registration = new Registration(body);
   const response = await registration.registerAsTeacher();
   const jsonWebToken = new JsonWebToken(response);
