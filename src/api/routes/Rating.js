@@ -20,7 +20,10 @@ router.post("/add", ValidateJwt, addReviewValidation, async (req, res) => {
 });
 
 router.get("/:teacherEmail", ValidateJwt, async (req, res) => {
-  const { teacherEmail } = req.params;
+  let { teacherEmail } = req.params;
+  if (!teacherEmail) {
+    teacherEmail = req.body.email;
+  }
   const rating = new Rating(teacherEmail);
   const listOfReviews = await rating.getReviews();
 
