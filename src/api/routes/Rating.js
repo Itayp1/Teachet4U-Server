@@ -24,6 +24,16 @@ router.get("/:teacherEmail", ValidateJwt, async (req, res) => {
   if (!teacherEmail) {
     teacherEmail = req.body.email;
   }
+  console.log(teacherEmail);
+  const rating = new Rating(teacherEmail);
+  const listOfReviews = await rating.getReviews();
+
+  return res.json(listOfReviews);
+});
+router.get("/", ValidateJwt, async (req, res) => {
+  const teacherEmail = req.body.email;
+
+  console.log(teacherEmail);
   const rating = new Rating(teacherEmail);
   const listOfReviews = await rating.getReviews();
 

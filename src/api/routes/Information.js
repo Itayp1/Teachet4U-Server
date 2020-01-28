@@ -5,26 +5,33 @@ const router = require("express").Router(),
 
 require("express-async-errors");
 
-router.put("/update/teacher", async ({ body }, res) => {
+router.put("/update/teacher", ValidateJwt, async ({ body }, res) => {
   // prettier-ignore
-  const {email} = body;
+  const { email } = res.locals.jwt;
   const teacher = new Teacher(email);
   const result = await teacher.updateInfo(body);
   res.json(result);
 });
 router.put("/student", ValidateJwt, async ({ body }, res) => {
-  const student = new Student(res.locals.jwt.email);
+  const { email } = res.locals.jwt;
+
+  const student = new Student(email);
   const result = await student.updateInfo(body);
   res.json(result);
 });
 
-router.get("/teacher", async ({ query }, res) => {
+router.get("/teacher", ValidateJwt, async (req, res) => {
   // prettier-ignore
-  const {email} = query;
+  const email= req.query.email || req.body.email;
+  // console.log("teacerrrrrrrrrrr" + body.query);
   const teacher = new Teacher(email);
   const result = await teacher.getInfo();
   res.json(result);
+  if (req.query.email) {
+    teacher.addView();
+  }
 });
+// eslint-disable-next-line no-unused-vars
 router.get("/student", ValidateJwt, async ({ query }, res) => {
   const { email } = res.locals.jwt; // \\ query;
   const student = new Student(email);

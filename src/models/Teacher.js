@@ -18,7 +18,10 @@ const TeacherSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-
+  views: {
+    type: Number,
+    required: true
+  },
   city: {
     type: String,
     required: true

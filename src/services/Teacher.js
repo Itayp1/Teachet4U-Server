@@ -20,7 +20,8 @@ class Teacher extends User {
       this.availablesDays = availablesDays,
       this.avaiablesHours = avaiablesHours,
       this.rating = rating;
-      
+      this.views = 0;
+
   //    console.log(this);
 
   }
@@ -73,19 +74,27 @@ class Teacher extends User {
     for (let key in details) {
       key != "email" ? (obj[key] = details[key]) : null;
     }
+    console.log(this.email);
     let result = await TeacherQuery.findOneAndUpdate(
       { email: this.email },
       {
         $set: obj
       }
     );
+    console.log(result);
     _.assign(result, obj);
     return result;
   }
   async getInfo() {
-    console.log;
     const result = await TeacherQuery.findOne({ email: this.email });
     return result;
+  }
+  addView() {
+    TeacherQuery.findOneAndUpdate({ email: this.email }, { $inc: { views: 1 } })
+      .then(res => console.log(res))
+      .catch(err => {
+        console.log(err);
+      });
   }
 }
 
