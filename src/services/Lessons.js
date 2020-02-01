@@ -40,6 +40,7 @@ module.exports = class Lessons {
           (obj.name = tmp.teacherName),
           (obj.date = tmp.date),
           (obj.time = tmp.time);
+        obj.id = tmp.id;
 
         return obj;
       });
@@ -53,11 +54,18 @@ module.exports = class Lessons {
           (obj.name = tmp.teacherName),
           (obj.date = tmp.date),
           (obj.time = tmp.time);
+        obj.id = tmp.id;
 
         return obj;
       });
       return mapResult;
     }
     throw new Error("unknoun Profile");
+  }
+
+  async updateTimeTable(_id, status) {
+    const timeTable = await TimeTable.findByIdAndUpdate({ _id }, { status });
+    timeTable.status = status;
+    return timeTable;
   }
 };

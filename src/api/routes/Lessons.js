@@ -43,4 +43,13 @@ router.get("/timetable", ValidateJwt, async ({ body }, res) => {
   let result = await timeTable.getTimeTable(email, profile);
   res.json({ timeTable: result });
 });
+
+router.put("/timetable", ValidateJwt, async ({ body }, res) => {
+  const { id, status } = body;
+  const timeTable = new Lesson();
+
+  const result = await timeTable.updateTimeTable(id, status);
+  console.log(result);
+  res.json({ updated: result });
+});
 module.exports = router;
