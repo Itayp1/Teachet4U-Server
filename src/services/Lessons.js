@@ -27,7 +27,25 @@ module.exports = class Lessons {
   async appointmentLesson() {
     const timeTable = new TimeTable(this);
     const result = await timeTable.save();
-    return result;
+    const {
+      status,
+      teacherEmail: email,
+      teacherName: name,
+      date,
+      time,
+      _id: id
+    } = result;
+
+    const resultRefact = {
+      status,
+      email,
+      name,
+      date,
+      time,
+      id
+    };
+
+    return resultRefact;
   }
   async getTimeTable(email, profile) {
     console.log(email);
