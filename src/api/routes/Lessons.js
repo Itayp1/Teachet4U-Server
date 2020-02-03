@@ -27,7 +27,7 @@ router.post(
       cource,
       date,
       time,
-      "awaiting"
+      "waiting"
     );
     const result = await lesson.appointmentLesson();
     res.json(result);
