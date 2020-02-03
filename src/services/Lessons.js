@@ -1,5 +1,6 @@
 const mongoose = require("mongoose"),
-  TimeTable = mongoose.model("TimeTable");
+  TimeTable = mongoose.model("TimeTable"),
+  emitter = require("../subscribers/index");
 
 module.exports = class Lessons {
   constructor(
@@ -44,6 +45,7 @@ module.exports = class Lessons {
       time,
       id
     };
+    emitter.emit("teacher-apointmentLesson", result);
 
     return resultRefact;
   }
@@ -84,6 +86,7 @@ module.exports = class Lessons {
   async updateTimeTable(_id, status) {
     const timeTable = await TimeTable.findByIdAndUpdate({ _id }, { status });
     timeTable.status = status;
+    emitter.emit("teacher-changestatus", timeTable);
     return timeTable;
   }
 };
