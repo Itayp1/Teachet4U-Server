@@ -55,17 +55,14 @@ class Teacher extends User {
       teacherEmail: this.email,
       date
     });
+    // console.log("takenLessons" + takenLessons);
+
     takenLessons = takenLessons.map(({ time }) => time);
-    console.log(takenLessons);
 
     const avaiables = avaiablesHours.filter(
-      houer => !takenLessons.includes(houer)
+      houer => !takenLessons.includes(parseInt(houer))
     );
-    console.log("avaiables");
-    console.log(avaiables);
-    // const avaiablesHours = takenLessons.map(obj => {
-    //   return obj.time;
-    // });
+
     return { avaiables, availablesDays };
   }
 
