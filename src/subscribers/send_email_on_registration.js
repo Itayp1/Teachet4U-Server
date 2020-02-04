@@ -6,9 +6,9 @@ const Logger = require("../loaders/looger");
 
 // eslint-disable-next-line no-unused-vars
 module.exports = obj => {
-  const { email, name } = obj;
-  const htmlBody = mailgen(name);
-  const subject = `${name} ברוך הבא`;
+  const { email, fullName } = obj;
+  const htmlBody = mailgen(fullName);
+  const subject = `${fullName} ברוך הבא`;
 
   const mailService = new MailService(email, subject, "heyy there", htmlBody);
   Logger.info(`new user , dending email to ${email}`);

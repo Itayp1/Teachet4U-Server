@@ -17,8 +17,16 @@ router.post(
   ValidateJwt,
 
   async (req, res) => {
-    const { teacherEmail, teacherName, cource, date, time } = req.body;
-    const { email: studentEmail, name: studentName } = res.locals.jwt;
+    const {
+      teacherEmail,
+      teacherName,
+      cource,
+      date,
+      time,
+      studentName
+    } = req.body;
+    const { email: studentEmail } = res.locals.jwt;
+    console.log(studentEmail, studentName);
     const lesson = new Lesson(
       teacherEmail,
       teacherName,

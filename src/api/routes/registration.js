@@ -22,7 +22,7 @@ router.post("/student", verifyUserByToken, userExist, async ({ body }, res) => {
   const jsonWebToken = new JsonWebToken(response);
   const jwt = jsonWebToken.createJwt();
   console.log(`response : ${JSON.stringify(jwt)}`);
-  res.send(jwt);
+  res.send({ jwt });
 });
 
 module.exports = router;
