@@ -9,6 +9,7 @@ module.exports = class Registration {
   }
 
   async registerAsTeacher() {
+    this.userDetails.views = 0;
     const teacher = new Teacher(this.userDetails);
     const res = await teacher.save();
     emitter.emit("user-registered", res);
