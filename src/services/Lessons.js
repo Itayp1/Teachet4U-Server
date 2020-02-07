@@ -23,6 +23,7 @@ module.exports = class Lessons {
     this.time = time;
     this.status = status;
     this.name = name;
+    this.hasReview = false;
   }
 
   async appointmentLesson() {
@@ -50,7 +51,6 @@ module.exports = class Lessons {
     return resultRefact;
   }
   async getTimeTable(email, profile) {
-    console.log(email);
     if (profile == "student") {
       let timeTable = await TimeTable.find({ studentEmail: email });
       const mapResult = timeTable.map(tmp => {
@@ -61,9 +61,12 @@ module.exports = class Lessons {
           (obj.date = tmp.date),
           (obj.time = tmp.time);
         obj.id = tmp.id;
+        obj.hasReview = tmp.hasReview;
 
         return obj;
       });
+
+      console.log(mapResult);
       return mapResult;
     } else if (profile == "teacher") {
       let timeTable = await TimeTable.find({ teacherEmail: email });

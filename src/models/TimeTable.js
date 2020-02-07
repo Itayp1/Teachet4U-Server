@@ -17,6 +17,10 @@ const TimeTableSchema = new mongoose.Schema({
     type: String,
     required: true
   },
+  hasReview: {
+    type: Boolean,
+    required: false
+  },
   cource: {
     type: String,
     required: true
