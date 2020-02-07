@@ -62,6 +62,7 @@ module.exports = class Lessons {
           (obj.time = tmp.time);
         obj.id = tmp.id;
         obj.hasReview = tmp.hasReview;
+        obj.studentName = tmp.studentName;
 
         return obj;
       });
