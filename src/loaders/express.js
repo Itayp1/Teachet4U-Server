@@ -30,7 +30,9 @@ module.exports = app => {
   // parse application/x-www-form-urlencoded
   app.use(bodyParser.urlencoded({ extended: false }));
   app.use(({ body, headers }, res, next) => {
-    console.log(body);
+    if (headers["content-length"] < 1000) {
+      console.log(body);
+    }
     console.log(headers);
     next();
   });

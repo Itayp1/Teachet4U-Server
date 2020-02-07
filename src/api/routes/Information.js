@@ -19,6 +19,19 @@ router.put("/student", ValidateJwt, async ({ body }, res) => {
   const result = await student.updateInfo(body);
   res.json(result);
 });
+router.put("/replacepic", ValidateJwt, async ({ body }, res) => {
+  const { email, profile } = res.locals.jwt;
+  const { image } = body;
+  let link;
+  if (profile == "student") {
+    const student = new Student(email);
+    link = await student.addPicture(image);
+  } else if (profile == "teacher") {
+    const teacher = new Teacher(email);
+    link = await teacher.addPicture(image);
+  }
+  res.json({ link });
+});
 
 router.get("/teacher", ValidateJwt, async (req, res) => {
   // prettier-ignore

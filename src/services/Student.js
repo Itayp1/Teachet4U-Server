@@ -4,6 +4,7 @@ const User = require("./User"),
   // CError = require("../services/CustomError"),
   _ = require("lodash");
 mongoose.set("useFindAndModify", false);
+const uploadPic = require("./uploadPicture");
 
 module.exports = class Student extends User {
   constructor(email, fullnName, age, gender, city, phone, profile) {
@@ -42,5 +43,11 @@ module.exports = class Student extends User {
   async getInfo() {
     const result = await StudentQuery.findOne({ email: this.email });
     return result;
+  }
+  async addPicture(img) {
+    const pic = await uploadPic(img);
+
+    await StudentQuery.findOneAndUpdate({ email: this.email }, { pic });
+    return pic;
   }
 };

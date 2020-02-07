@@ -17,7 +17,10 @@ const StudentSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-
+  pic: {
+    type: String,
+    required: false
+  },
   city: {
     type: String,
     required: true

@@ -4,7 +4,7 @@ const User = require("./User"),
   TimeTable = mongoose.model("TimeTable"),
   _ = require("lodash");
 mongoose.set("useFindAndModify", false);
-
+const uploadPic = require("./uploadPicture");
 class Teacher extends User {
   // prettier-ignore
   constructor(email, fullnName, age, gender, city, phone, profile, pic, courses, studyCities, university, generalDescription, priceAtStudent, price, availablesDays, avaiablesHours, rating 
@@ -92,6 +92,11 @@ class Teacher extends User {
       .catch(err => {
         console.log(err);
       });
+  }
+  async addPicture(img) {
+    const pic = await uploadPic(img);
+    await TeacherQuery.findOneAndUpdate({ email: this.email }, { pic });
+    return pic;
   }
 }
 

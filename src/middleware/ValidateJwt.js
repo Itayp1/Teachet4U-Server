@@ -17,6 +17,7 @@ module.exports = async (req, res, next) => {
     res.locals.jwt = isValid;
 
     req.body.email = isValid.email;
+
     next();
   } catch (error) {
     next(new CERROR(error, 401));
