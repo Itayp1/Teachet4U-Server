@@ -5,7 +5,8 @@ const router = require("express").Router(),
 
 router.post("/add", ValidateJwt, addReviewValidation, async (req, res) => {
   const { rating, review, teacherEmail, lessonId } = req.body;
-  const { name: studentName } = res.locals.jwt;
+  const { fullName: studentName } = res.locals.jwt;
+  console.log(studentName);
   const ratingObj = new Rating(
     teacherEmail,
     lessonId,

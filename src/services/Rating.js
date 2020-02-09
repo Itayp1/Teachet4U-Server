@@ -1,4 +1,5 @@
 const mongoose = require("mongoose"),
+  TimeTable = mongoose.model("TimeTable"),
   RatingDb = mongoose.model("Rating");
 module.exports = class Rating {
   constructor(teacherEmail, lessonId, rating, review, studentName) {
@@ -11,8 +12,12 @@ module.exports = class Rating {
 
   async addReview() {
     const review = new RatingDb(this);
-    const response = await review.save();
-    console.log(response);
+    await review.save();
+    await TimeTable.findByIdAndUpdate(
+      { _id: this.lessonId },
+      { hasReview: true }
+    );
+
     return true;
   }
 
