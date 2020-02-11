@@ -39,15 +39,26 @@ class Teacher extends User {
 
   async getAvaiableTime(date) {
     const { email } = this;
-    const { avaiablesHours, availablesDays } = await TeacherQuery.findOne({
+    const {
+      avaiablesHours,
+      availablesDays: availablesDaysinNum
+    } = await TeacherQuery.findOne({
       email
     });
-    console.log(availablesDays);
-    console.log(date);
+    const sceDate = (new Date(date).getDay() + 1).toString();
+    const days = {
+      "0": "0",
+      ראשון: "1",
+      שני: "3",
+      שלישי: "4",
+      רביעי: "4",
+      חמישי: "5",
+      שישי: "6",
+      שבת: "7"
+    };
+    const availablesDays = availablesDaysinNum.map(day => days[day]);
 
-    console.log(new Date(date).getDay());
-    console.log(availablesDays[new Date(date).getDay()]);
-    if (!availablesDays[new Date(date).getDay()]) {
+    if (!availablesDays.includes(sceDate)) {
       return [];
     }
 

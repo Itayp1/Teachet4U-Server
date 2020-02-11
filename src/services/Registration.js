@@ -3,6 +3,28 @@ const mongoose = require("mongoose"),
   Student = mongoose.model("Student"),
   emitter = require("../subscribers/index");
 
+const days = {
+  name: "ראשון",
+  id: "1",
+
+  name: "שני",
+  id: "2",
+  name: "שלישי",
+  id: "3",
+
+  name: "רביעי",
+  id: "4",
+
+  name: "חמישי",
+  id: "5",
+
+  name: "שישי",
+  id: "6",
+
+  name: "שבת",
+  id: "7"
+};
+
 module.exports = class Registration {
   constructor(userDetails) {
     this.userDetails = userDetails;

@@ -12,7 +12,7 @@ router.post("/teacher", verifyUserByToken, userExist, async ({ body }, res) => {
   const response = await registration.registerAsTeacher();
   const jsonWebToken = new JsonWebToken(response);
   const jwt = jsonWebToken.createJwt();
-  res.send(jwt);
+  res.send({ jwt });
 });
 
 router.post("/student", verifyUserByToken, userExist, async ({ body }, res) => {

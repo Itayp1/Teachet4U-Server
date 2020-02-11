@@ -1,5 +1,24 @@
-const moment = require("moment");
+// const days = {
+//   ראשון: "1",
+//   שני: "2",
+//   שלישי: "3",
+//   רביעי: "4",
+//   חמישי: "5",
+//   שישי: "6",
+//   שבת: "7"
+// };
+// const availablesDays = ["שישי", "שני"];
 
-const date = new Date();
+// console.log(availablesDays.map(day => days[day]));
 
-moment(date).format("MMM Do YY");
+const days = {
+  "1": "ראשון",
+  "2": "שני",
+  "3": "שלישי",
+  "4": "רביעי",
+  "5": "חמישי",
+  "6": "שישי",
+  "7": "שבת"
+};
+
+console.log(days[1]);
