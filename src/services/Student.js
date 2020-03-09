@@ -22,7 +22,7 @@ module.exports = class Student extends User {
     try {
       let obj = {};
       for (let key in details) {
-        key != "email" ? (obj[key] = details[key]) : null;
+        key != "email" && key != "pic" ? (obj[key] = details[key]) : null;
       }
       let result = await StudentQuery.findOneAndUpdate(
         { email: this.email },

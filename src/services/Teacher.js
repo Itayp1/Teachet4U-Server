@@ -80,7 +80,7 @@ class Teacher extends User {
   async updateInfo(details) {
     let obj = {};
     for (let key in details) {
-      key != "email" ? (obj[key] = details[key]) : null;
+      key != "email" && key != "pic" ? (obj[key] = details[key]) : null;
     }
     console.log(this.email);
     let result = await TeacherQuery.findOneAndUpdate(
