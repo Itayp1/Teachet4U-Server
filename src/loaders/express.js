@@ -33,7 +33,7 @@ module.exports = app => {
     if (headers["content-length"] < 1000) {
       console.log(body);
     }
-    console.log(headers);
+    console.log(headers.authorization);
     next();
   });
   //register other security protections

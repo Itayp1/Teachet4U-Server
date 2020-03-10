@@ -1,12 +1,12 @@
 const nodemailer = require("nodemailer"),
-  Logger = require("../loaders/looger");
-// config = require("../../server.config");
+  Logger = require("../loaders/looger"),
+  config = require("../../server.config");
 
 const transporter = nodemailer.createTransport({
   service: "gmail",
   auth: {
-    user: "teacher4u.app@gmail.com",
-    pass: "Alroe2018"
+    user: config.SMTP_PORT,
+    pass: config.SMTP_PASS
   }
 });
 
