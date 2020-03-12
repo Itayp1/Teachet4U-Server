@@ -80,6 +80,7 @@ module.exports = class Lessons {
           (obj.date = tmp.date),
           (obj.time = tmp.time);
         obj.id = tmp.id;
+        obj.cource = tmp.cource;
 
         return obj;
       });

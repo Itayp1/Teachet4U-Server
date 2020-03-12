@@ -20,6 +20,10 @@ const RatingSchema = new mongoose.Schema({
   studentName: {
     type: String,
     required: true
+  },
+  cource: {
+    type: String,
+    required: false
   }
 });
 
