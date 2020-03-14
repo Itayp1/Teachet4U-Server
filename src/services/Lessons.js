@@ -35,6 +35,7 @@ module.exports = class Lessons {
       teacherName: name,
       date,
       time,
+      cource,
       _id: id
     } = result;
 
@@ -44,6 +45,7 @@ module.exports = class Lessons {
       name,
       date,
       time,
+      cource,
       id
     };
     emitter.emit("teacher-apointmentLesson", result);
