@@ -23,7 +23,7 @@ const RatingSchema = new mongoose.Schema({
   },
   cource: {
     type: String,
-    required: false
+    required: true
   }
 });
 
