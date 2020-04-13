@@ -6,8 +6,8 @@ const Logger = require("../loaders/looger");
 
 // eslint-disable-next-line no-unused-vars
 module.exports = obj => {
-  const { teacherName, studentName, date, time, teacherEmail } = obj;
-  const htmlBody = mailgen(teacherName, studentName, date, time);
+  const { teacherName, studentName, date, time, teacherEmail, phone } = obj;
+  const htmlBody = mailgen(teacherName, studentName, date, time, phone);
   const subject = `  נקבע עבורך שיעור חדש - Teacher4U`;
 
   const mailService = new MailService(

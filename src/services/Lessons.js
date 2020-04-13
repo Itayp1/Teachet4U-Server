@@ -26,9 +26,10 @@ module.exports = class Lessons {
     this.hasReview = false;
   }
 
-  async appointmentLesson() {
+  async appointmentLesson(phone) {
     const timeTable = new TimeTable(this);
     const result = await timeTable.save();
+    result.phone = phone
     const {
       status,
       teacherEmail: email,

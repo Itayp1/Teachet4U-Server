@@ -25,7 +25,7 @@ router.post(
       time,
       studentName
     } = req.body;
-    const { email: studentEmail } = res.locals.jwt;
+    const { email: studentEmail, phone } = res.locals.jwt;
     console.log(studentEmail, studentName);
     const lesson = new Lesson(
       teacherEmail,
@@ -37,7 +37,7 @@ router.post(
       time,
       "waiting"
     );
-    const result = await lesson.appointmentLesson();
+    const result = await lesson.appointmentLesson(phone);
     res.json(result);
   }
 );
