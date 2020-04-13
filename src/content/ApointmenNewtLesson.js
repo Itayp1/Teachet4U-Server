@@ -106,7 +106,7 @@ const GenHtmlRegistration = (name, teacherName, date, time, phone) => {
                           נקבע לתאריך ${date} בשעה ${time}  
                           ניתן ליצור קשר עם התלמיד ${teacherName}
                           <br />
-                          <a href="tel:${phone}">${phone}</a> במספר
+                          במספר <a href="tel:${phone}">${phone}</a> 
                             
                         </p>
   
